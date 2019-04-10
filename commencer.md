@@ -11,7 +11,7 @@ Pour créer un fichier sur JdBEdit, c'est simple, voir très simple.
 Commencer dans un premier lieu par donner un nom complet à votre fichier \(Exemple: `Mon fichier.html` \). Le nom du  fichier doit contenir le nom \(Mon fichier\) et l'extension du fichier \(.html\), ah oui ça ne se devine pas. Les mots qui composent le nom du fichier  peuvent être séparés par soit un espace, soit par un autre caractère tel qu'un tiret \(-\).
 
 {% hint style="danger" %}
-**Sans l'extension du fichier, JdBEdit ne peut procéder à une sauvegarde de votre  fichier.** En revanche, il va essayer dans certains cas de deviner quel est le  type de votre fichier. S'il ne peut pas le deviner, il va vous proposer des extension pris en charge au hasard..
+**Sans l'extension du fichier, JdBEdit ne peut procéder à une sauvegarde de votre  fichier.** En revanche, il va essayer dans certains cas de deviner quel est le  type de votre fichier. S'il ne peut pas le deviner, il va vous proposer des extension pris en charge au hasard.
 {% endhint %}
 
 ## Editer le fichier

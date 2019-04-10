@@ -11,6 +11,7 @@
 * [Ressources externes](ressources-externes.md)
 * [Les extraits de code](les-extraits-de-code.md)
 * [Note de publication](note-de-publication.md)
+* [Licence](licence.md)
 * [FAQ](faq.md)
 
 ## Paramètres
