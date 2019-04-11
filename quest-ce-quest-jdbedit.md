@@ -62,6 +62,13 @@ JdBEdit est un IDE, un éditeur de code pour le HTML, le JavaScript, le CSS et l
 32. Prise en charge d'[Emmet](https://docs.emmet.io/),
 33. Signaler un dysfonctionnement,
 
+## Fonctionnalités à venir
+
+* Intégrations d'autres moyens de stockage en ligne \(Ex.: Google Drive\),
+* Collaboration en temps réel,
+* Création de project à 3 fichier \(HTML, CSS, JS\),
+* Thème sombre,
+
 ## Prérequis
 
 Vous devez avoir des connaissances de base en HTML, CSS et/ou markdown et sur comment utiliser un éditeur de code,  tout simplement.

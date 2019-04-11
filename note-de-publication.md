@@ -16,7 +16,7 @@ Pour sauvegarder des notes, allez dans  l'onglet **Paramètre JdBEdit** puis coc
 
 Pour récupérer des notes, il suffit d'ouvrir le **Menu A**, puis survoler le bouton **Édition**, puis cliquer sur **Récupérer les notes sauvegardées.** Vous pouvez éviter supprimer ces notes sauvegardées. Le bouton **Supprimer les notes sauvegardées** se situe juste après le bouton **Récupérer les notes sauvegardées**.
 
-**Accès:** `Menu A` &gt; `Édition` &gt; _Récupérer les notes sauvegardées_
+Accès : ****`Menu A` &gt; `Édition` &gt; _Récupérer les notes sauvegardées_
 
 ## 25-12-2018
 
@@ -40,7 +40,7 @@ Ce brouillon contient le titre et la description du code et le code en soi et pe
 
 Il n'y a aucun délais d'expiration pour les brouillons.
 
-**Accès :**
+Accès :
 
 * `Menu A` &gt; `Edition` &gt; _Enregistrer un brouillon_
 * `Ctrl` + `B`
@@ -53,7 +53,7 @@ Il n'y a aucun délais d'expiration pour les brouillons.
 
 Le nouveau centre des notifications vous donne accès aux notifications persistantes, toutes en un seul lieu, afin de vous libérer de la place sur l'écran. Une fois le centre de notifications ouvert, toutes les notifications contenues sont marquées comme lues excepté la notification pour l'acceptation de l'utilisation des cookies qui résistera tant que vous n'avez pas acceptez l'accord.
 
-**Accès :** 
+Accès : 
 
 * _La cloche sur la barre de navigation_,
 * `Ctrl` + `Alt` + `0`
@@ -66,7 +66,7 @@ Le nouveau centre des notifications vous donne accès aux notifications persista
 
 Ajoutez désormais n'importe quelle bibliothèque CSS et ou JS à votre document en mettant le curseur à l'endroit où vous souhaitez insérer la balise \(`script` ou `link`\) du fichier de votre bibliothèque, ensuite, faites une recherche rapide sur [CDNJS](https://cdnjs.com) via le panneau **Librairie**.
 
-**Accès :**
+Accès :
 
 * `Menu A` &gt; `Edition` &gt; _Ajouter une ressource externe_.
 * [https://code.wetrafa.xyz/?modal=libraries](https://code.wetrafa.xyz/?modal=libraries)
@@ -79,7 +79,7 @@ Ajoutez désormais n'importe quelle bibliothèque CSS et ou JS à votre document
 
 La nouvelle interface utilisateur du sélecteur de couleur JdBEdit est désormais disponible dans les sections de style HTML et en mode d'édition CSS. Vous avez une variété de choix de couleurs à découvrir en survolant tout simplement le curseur de votre souris sur le grand cadre de l'onglet Sélecteur de couleur. Cliquez sur la couleur active et obtenez son code et 10 autres dégradées de la couleur sélectionnée.
 
-**Accès :**
+Accès :
 
 * `Menu A` &gt; `Options` &gt; `Outils` &gt; _Sélecteur de couleur_.
 * [https://code.wetrafa.xyz/?modal=colorPicker](https://code.wetrafa.xyz/?modal=colorPicker)
@@ -114,7 +114,7 @@ console.log(person.name + " est fort en " +
             person.skills[0]);
 ```
 
-**Accès :**
+Accès :
 
 * `Menu A` &gt; `Options` &gt; _Console_
 * `Ctrl` + `Alt` + `C`
