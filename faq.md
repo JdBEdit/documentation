@@ -56,13 +56,13 @@ Pour en savoir plus sur comment créer un fichier, rendez-vous sur :
 
 Vous pouvez ajouter un style initial au rendu de votre markdown en cachant dans les Paramètre JdBEdit la case **Ajouter du style au markdown** comme illustré ci-après :
 
-
-
-
-
-
+![](.gitbook/assets/localhost_8080___dev.index.html_modal-setting-1.png)
 
 ## Comment supprimer les cookies ?
 
 Vous pouvez supprimer les cookies relatives à JdBEdit directement sur JdBEdit. Aller dans `Paramètres` &gt; `Réinitialiser` &gt; un panneau  s'ouvre &gt; Sélectionnez vos paramètres puis cliquez sur `CONFIRMER ET RÉINITIALISER` &gt; vos cookies sont supprimer et la page va s'actualiser après quelques secondes.
+
+## Où puis-je signaler des bogues
+
+Signalez tous les bugs et suggérez des fonctionnalités dans le traqueur de bugs JdBEdit. Une description détaillée et un cas de test réduit sont appréciées. Merci pour vos efforts visant à améliorer JdBEdit !
 
