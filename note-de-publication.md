@@ -4,6 +4,16 @@ description: 'Historique des modifications, des nouveautés et améliorations.'
 
 # Note de publication
 
+## 15-07-2019
+
+### Fixation de bugs mineurs
+
+#### Améliorations
+
+* Correction de quelques fautes de frappe ;
+* Suppression du bogue lors de l'envoi du formulaire de contact ;
+* Mise à jour de liens corrompus.
+
 ## 27-12-2018
 
 ### Sauvegarde des notes
