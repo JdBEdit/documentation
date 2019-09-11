@@ -4,14 +4,40 @@ description: 'Historique des modifications, des nouveautés et améliorations.'
 
 # Note de publication
 
+## 02-09-2019 - v2.2.1 beta
+
+#### Fixation de bugs \(Améliorations\) :
+
+* Ajout d'un badge pro pour les comptes GitHub qui ont un accès PRO.
+
+## 21-08-2019 - v2.2.0
+
+#### Fixation de bugs \(Améliorations\) :
+
+* Retirer le paramètre URL modal lorsque le panneau en question n'est pas affiché ; et le remettre lorsque le panneau est affiché.
+* Ajout de plus d'informations sur les types de fichiers pris en charge.
+* Fixation d'un bug mineur dans l'historique de fichiers ouverts.
+* Possibilité de télécharger en version `.docs` les fichiers HTML, Markdown et Texte brut uniquement.
+* Désactivation du panneau d'aperçu améliorée.
+* L'éditeur se désactive et devient inutilisable lorsque l'accès aux cookies est interdit.
+* Fixer le lien du script `emmet.js`
+* Les couleurs sélectionnées sont désormais sauvegardées dans le Selecteur de couleur. Jusqu'à 30 couleurs peuvent êtres sauvegardées.
+
+## 19-08-2019 - v2.1.9
+
+#### Fixation de bugs mineurs \(Améliorations\) :
+
+* Correction de quelques fautes de frappe.
+* Suppression du bogue lors de l'envoi du formulaire de contact.
+* Mise à jour de liens corrompus.
+* Correction du bug lors de l'envoi du formulaire de contact.
+
 ## 15-07-2019
 
-### Fixation de bugs mineurs
+#### Fixation de bugs mineurs \(Améliorations\) :
 
-#### Améliorations
-
-* Correction de quelques fautes de frappe ;
-* Suppression du bogue lors de l'envoi du formulaire de contact ;
+* Correction de quelques fautes de frappe.
+* Suppression du bogue lors de l'envoi du formulaire de contact.
 * Mise à jour de liens corrompus.
 
 ## 27-12-2018
