@@ -4,11 +4,22 @@ description: 'Historique des modifications, des nouveautés et améliorations.'
 
 # Note de publication
 
-## 02-09-2019 - v2.2.1 beta
+## 04-11-2019 - v2.2.2
 
 #### Fixation de bugs \(Améliorations\) :
 
 * Ajout d'un badge pro pour les comptes GitHub qui ont un accès PRO.
+* Il y a désormais un avertissement lorsque vous ouvrez un brouillon alors qu'il y a du code non sauvegardé.
+* Il faudra d'abord fermer le Gist ouvert avant d'ouvrir un brouillon.
+* Amélioration des moyens de connexion.
+
+## 24-09-2019 - v2.2.1
+
+#### Fixation de bugs \(Améliorations\) :
+
+* Ajout d'un badge pro pour les comptes GitHub qui ont un accès PRO.
+* Vous pouvez à nouveau  rentrer votre code couleur dans le sélecteur de couleur.
+* Ajout d'aide pour résoudre les certains problèmes rencontrés dans l"éditeur.
 
 ## 21-08-2019 - v2.2.0
 
