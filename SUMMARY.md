@@ -12,7 +12,6 @@
 * [Les extraits de code](les-extraits-de-code.md)
 * [Note de publication](note-de-publication.md)
 * [Licence](licence.md)
-* [FAQ](faq.md)
 
 ## Paramètres
 
@@ -27,4 +26,8 @@
 * [Importeur de code](outils/importeur-de-code.md)
 * [Mise en forme](outils/mise-en-forme.md)
 * [Console](outils/console.md)
+
+## Autres
+
+* [FAQ](autres/faq.md)
 
