@@ -8,7 +8,7 @@ description: En savoir plus sur JdBEdit...
 
 > Créé en 2017, JdBEdit ou JdBEditor est un simple éditeur de code en ligne développée à l'aide du langage de programmation JavaScript. L'application web est utilisable sur des plateformes web telle qu'un navigateur internet.
 
-JdBEdit est un IDE en ligne, un éditeur de code pour le HTML, le JavaScript, le CSS et le Markdown conçu pour aider les gens à apprendre, créer et partager le Web avec le Web. Vous avez votre code sur le côté gauche de l'écran et un aperçu de votre code sur le côté droit de la fenêtre. Lorsque vous modifiez votre code, vous devez l'exécuter pour apporter les modifications dans l'aperçu. De plus, JdBEdit regorge d’outils d’apprentissage pour vous aider à évoluer sans niveau de compétences.
+JdBEdit est un IDE en ligne, un éditeur de code pour le HTML, le JavaScript, le CSS, le Markdown et le texte brut. Il est conçu pour aider les gens à apprendre, créer et partager le Web avec le Web. Vous avez votre code sur le côté gauche de l'écran et un aperçu de votre code sur le côté droit. Lorsque vous modifiez votre code, vous devez l'exécuter pour appliquer les modifications apportées dans l'aperçu. De plus, JdBEdit regorge d’outils d’apprentissage pour vous aider à évoluer sans niveau de compétences.
 
 {% hint style="info" %}
 [José dBruxelles](https://w.we-rl.xyz/br-cd) est le créateur, le mainteneur et manager de JdBEdit.
@@ -75,7 +75,7 @@ Vous devez avoir des connaissances de base en HTML, CSS et/ou markdown et sur co
 
 ## Autres
 
-JdBEdit prend en charge les languages web HTML, CSS, JavaScript et markdown en plus du texte brut. Java et Python sont récemment supportés mais ils ne sont pas encore exécutables. Cela dit : vous pouvez juste éditer votre code en bénéficiant de la surbrillance du texte. 
+JdBEdit prend en charge les langages web HTML, CSS, JavaScript et markdown en plus du texte brut. Java et Python sont récemment supportés mais ils ne sont pas encore exécutables. Cela dit : vous pouvez juste éditer votre code en bénéficiant de la surbrillance du texte. 
 
 L'éditeur est complètement personnalisable via des paramètres. Il enregistre l'historique des fichier et permet la sauvegarde et l'exportation de cette historique.
 

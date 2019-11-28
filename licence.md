@@ -9,8 +9,7 @@ description: Cette licence s'applique à tous les Gists publics sur GitHub.
 * [https://gist.github.com/c0de29e623a1e34d1cda7e817d18bafe](https://gist.github.com/c0de29e623a1e34d1cda7e817d18bafe)
 * [https://code.wetrafa.xyz/preview/c0de29e623a1e34d1cda7e817d18bafe](http://code.wetrafa.xyz/preview/c0de29e623a1e34d1cda7e817d18bafe)
 
-{% code-tabs %}
-{% code-tabs-item title="MIT License" %}
+{% code title="MIT License" %}
 ```text
 MIT License
 
@@ -34,6 +33,5 @@ LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 ```
-{% endcode-tabs-item %}
-{% endcode-tabs %}
+{% endcode %}
 

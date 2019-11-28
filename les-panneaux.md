@@ -46,8 +46,7 @@ Une fois la couleur trouvée, cliquez pour confirmer la selection et JdBEdit vou
 
 ![\(cp 2\) - D&#xE9;grad&#xE9; de \#5582aa](.gitbook/assets/gradient-cp.png)
 
-{% code-tabs %}
-{% code-tabs-item title="Thème CSS basé sur \#5582aa" %}
+{% code title="Thème CSS basé sur \#5582aa" %}
 ```css
 .theme-l5 {color:#000 !important; background-color:#f5f8fa !important}
 .theme-l4 {color:#000 !important; background-color:#dde6ee !important}
@@ -66,8 +65,7 @@ Une fois la couleur trouvée, cliquez pour confirmer la selection et JdBEdit vou
 .text-theme, .hover-text-theme:hover {color:#5582aa !important}
 .border-theme, .hover-border-theme:hover {border-color:#5582aa !important}
 ```
-{% endcode-tabs-item %}
-{% endcode-tabs %}
+{% endcode %}
 
 Accès : `Menu A` &gt; `Options` &gt; `Outils` &gt; _Sélecteur de couleur_
 
