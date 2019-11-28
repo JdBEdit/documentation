@@ -4,6 +4,17 @@ description: 'Historique des modifications, des nouveautés et améliorations.'
 
 # Notes de publication
 
+## 28-11-2019 - v2.2.3
+
+* Fixation de bugs mineurs.
+* Fixation du bug qui empêchait l'importation du fichier dans l'éditeur.
+* Amélioration de performances.
+* Amélioration de la possibilité de connexion avec un `acces_token` \(jeton d'accès GitHub\).
+* Amélioration de l'interface du panneau Paramètre JdBEdit.
+* Amélioration des notifications qui prévienne qu'un langage n'est pas pris en charge. 
+* Amélioration de l'interface du panneau de connexion qui s'appelle désormais Portail de connexion.
+* Suppression du conflit dans la création d'un Gist alors q'un brouillon est ouvert, et vice versa.
+
 ## 04-11-2019 - v2.2.2
 
 #### Fixation de bugs \(Améliorations\) :
