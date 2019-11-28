@@ -2,7 +2,7 @@
 description: 'Historique des modifications, des nouveautés et améliorations.'
 ---
 
-# Note de publication
+# Notes de publication
 
 ## 04-11-2019 - v2.2.2
 

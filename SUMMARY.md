@@ -10,7 +10,7 @@
 * [Les raccourcis claviers](https://code.wetrafa.xyz/?modal=shortcuts)
 * [Ressources externes](ressources-externes.md)
 * [Les extraits de code](les-extraits-de-code.md)
-* [Note de publication](note-de-publication.md)
+* [Notes de publication](note-de-publication.md)
 * [Licence](licence.md)
 
 ## Paramètres
