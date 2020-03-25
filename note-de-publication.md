@@ -18,7 +18,7 @@ description: 'Historique des modifications, des nouveautés et améliorations.'
 
 **jdb.js** :
 
-* v1.24.1 -&gt; v1.24.2
+* `v1.24.1` → `v1.24.2`
 * Meilleur description du code
 * Réduction de taille du fichier
 * Suppression de : 
@@ -33,7 +33,8 @@ description: 'Historique des modifications, des nouveautés et améliorations.'
 
 ### **Nouveauté**
 
-* Nouvelle interface pour enregistrer des notes dans l'éditeur accessible via la barre de menu. De ce fait, l'option _Sauvegarder vos notes actuelles et à venir_ a été retirée des paramètres..
+* Nouvelle interface pour enregistrer des notes dans l'éditeur accessible via la barre de menu. De ce fait, l'option **Sauvegarder vos notes actuelles et à venir** a été retirée des paramètres.
+* Nouvelles option **Retour à la ligne forcé** dans les paramètres : permet le passage à la ligne du texte lorsque le panneau du code est  redimensionné à une taille plus petite. Désactivé par défaut.
 * Nouvelle barre de navigation pour les mises en formes Markdown mais aussi pour le HTML. 
 * Nouveaux raccourcis Emmet pour les classes JdB.CSS : 
   * `button:jdb`
