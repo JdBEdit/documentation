@@ -35,12 +35,9 @@ description: 'Historique des modifications, des nouveautés et améliorations.'
 
 * Nouvelle interface pour enregistrer des notes dans l'éditeur accessible via la barre de menu. De ce fait, l'option _Sauvegarder vos notes actuelles et à venir_ a été retirée des paramètres..
 * Nouvelle barre de navigation pour les mises en formes Markdown mais aussi pour le HTML. 
-* Nouveaux raccourcis Emmet pour les classes JdB.CSS
-
-Nouvelles raccourcis Emmet pour JdB.CSS :
-
-* `button:jdb`
-* `btn:jdb`
+* Nouveaux raccourcis Emmet pour les classes JdB.CSS : 
+  * `button:jdb`
+  * `btn:jdb`
 
 Le paramètre URL `?login=true` est remplacé par la destination `/login` qui redirige vers `?modal=login` Nouvelle page des paramètres URL : [code.wetrafa.xyz/url-parameters](https://code.wetrafa.xyz/url-parameters)
 
