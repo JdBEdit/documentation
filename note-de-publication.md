@@ -4,6 +4,46 @@ description: 'Historique des modifications, des nouveautés et améliorations.'
 
 # Notes de publication
 
+## 25-03-2020 - v2.3.0
+
+#### Fixation de bugs mineurs et majeurs
+
+* Ajour du paramètre URL lors de l'ouverture de dernier fichier ouvert.
+
+#### Améliorations
+
+* Amélioration du fonctionnement d'autres paramètres URL.
+* Amélioration de la fonctionnalité **Aller à la ligne** : Nouveau style + atteinte instantanée de la ligne sélectionnée.
+* JdBEdit propose de rouvrir le fichier Gist ouvert en dernier si celui-ci n'a pas été supprimé via le navigateur utilisé.
+
+**jdb.js**:
+
+* v1.24.1 -&gt; v1.24.2
+* Meilleur description du code
+* Réduction de taille du fichier
+* Suppression de : 
+  * `jdb.head`
+  * `jdb.body`
+  * `jdb.goBack`
+  * `jdb.noBack`
+  * `jdb.hide`
+  * `jdb.show`
+  * `jdb.addEvent`
+  * `jdb.addMultipleEvent`
+
+    **Nouveauté**
+
+    * Nouvelle interface pour enregistrer des notes dans l'éditeur accessible via la barre de menu. De ce fait, l'option _Sauvegarder vos notes actuelles et à venir_ a été retirée des paramètres..
+    * Nouvelle barre de navigation pour les mises en formes Markdown mais aussi pour le HTML. 
+    * Nouveaux raccourcis Emmet pour les classes JdB.CSS
+
+Nouvelles raccourcis Emmet pour JdB.CSS :
+
+* `button:jdb`
+* `btn:jdb`
+
+Le paramètre URL `?login=true` est remplacé par la destination `/login` qui redirige vers `?modal=login` Nouvelle page des paramètres URL : [code.wetrafa.xyz/url-parameters](https://code.wetrafa.xyz/url-parameters)
+
 ## 28-11-2019 - v2.2.3
 
 * Fixation de bugs mineurs.
