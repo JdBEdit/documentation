@@ -19,7 +19,46 @@ description: 'Historique des modifications, des nouveautés et améliorations.'
 
 * `v1.24.1` → `v1.24.2`
 * La fonction `jdb.ellipsis` accepte désormais un troisième paramètre : **texte**. Si le premier paramètre qui peut être un sélecteur ou un DOM est `null`, la fonction traitera le troisième paramètre qui doit être un texte et le retournera le résultat.
-* Le paramètre `callback` de la fonction `jdb.getUrlParam` a été amélioré afin d'utiliser la valeur du paramètre URL quelle qu’elle soit.
+
+```javascript
+var text = "Ceci est le texte a découpé si trop long...";
+var selecteur = "h1";
+var element = document.getElementById("name");
+
+//# Pour découper un text directement :
+jdb.ellipsis(null, 25, text);
+// Retourne "Ceci est le texte a décou..."
+
+//# Pour découper le texte d'une élément :
+jdb.ellipsis(selecteur, 25);
+//# ou
+jdb.ellipsis(element, 25);
+// Ne retourne rien mais découpe automatiquement
+// le texte de l'élément sélectionné et le
+// remplace par "Ceci est le texte a décou..."
+```
+
+* Le paramètre `callback` de la fonction `jdb.getUrlParam` a été amélioré afin d'utiliser la valeur du paramètre URL quelle qu’elle soit. Exemple :
+
+```javascript
+jdb.getUrlParam("name", null, function (value) {
+    if (value !== null) {
+        // URL = https://..../?name=xxxx
+        // Le paramètre existe dans l'URL.
+        
+        if (value === "John") {
+            // URL = https://..../?name=John
+            // La valeur du paramètre est "John".
+            ...
+        }
+        ...
+    } else {
+        // URL = https://..../
+        // Le paramètre n'existe pas dans l'URL.
+        ...
+    }
+});
+```
 
 ## 25-03-2020 - v2.3.0
 
