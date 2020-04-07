@@ -4,6 +4,23 @@ description: 'Historique des modifications, des nouveautés et améliorations.'
 
 # Notes de publication
 
+## 07-04-2020 - v2.3.1
+
+### Fixation de bugs mineurs
+
+* On peut désormais de nouveau  ouvrir le code normalement sur CodePen.
+
+### Améliorations
+
+* Demande de confirmation de suppression d'une note avant de complètement supprimer celle-ci.
+* Interface des onglets pop-ups simplifiée.
+
+**jdb.js** :
+
+* `v1.24.1` → `v1.24.2`
+* La fonction `jdb.ellipsis` accepte désormais un troisième paramètre : **texte**. Si le premier paramètre qui peut être un sélecteur ou un DOM est `null`, la fonction traitera le troisième paramètre qui doit être un texte et le retournera le résultat.
+* Le paramètre `callback` de la fonction `jdb.getUrlParam` a été amélioré afin d'utiliser la valeur du paramètre URL quelle qu’elle soit.
+
 ## 25-03-2020 - v2.3.0
 
 ### Fixation de bugs mineurs et majeurs
@@ -21,7 +38,7 @@ description: 'Historique des modifications, des nouveautés et améliorations.'
 * `v1.24.1` → `v1.24.2`
 * Meilleur description du code
 * Réduction de taille du fichier
-* Suppression de : 
+* Suppression de fonctions : 
   * `jdb.head`
   * `jdb.body`
   * `jdb.goBack`
