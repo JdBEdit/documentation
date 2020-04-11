@@ -4,6 +4,21 @@ description: 'Historique des modifications, des nouveautés et améliorations.'
 
 # Notes de publication
 
+## 11-04-2020 - v2.4.0
+
+### Fixation de bugs et améliorations
+
+* La fonctionnalité pleine page a été stabilisée améliorée.
+* Comme pour l'aperçu du code, il est désormais possible de coder en plein écran.
+* Un problème de duplication de gists résolu.
+* Amélioration des performances.
+
+### Nouveautés
+
+* Lors du téléchargement d'un fichier en tant que fichier Word, tous les scripts \(s'il y en a\) contenus dans le code sont retirés, car Word n’exécute pas JavaScript.
+* JdBEdit insère maintenant la plage de sélection dans l'URL pour permettre de pointer une partie spécifique du code lors du partage d'un fichier.
+* Il y a désormais une demande de confirmation lorsque vous essayez d'ouvrir un gist en tant que template afin d'éviter toute perte de données non sauvegardées.
+
 ## 07-04-2020 - v2.3.1
 
 ### Fixation de bugs mineurs
