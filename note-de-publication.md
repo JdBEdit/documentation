@@ -4,13 +4,26 @@ description: 'Historique des modifications, des nouveautés et améliorations.'
 
 # Notes de publication
 
+## 08-05-2020 - v2.5.0
+
+### Fixation de bugs et améliorations
+
+* La mise en commentaire du texte dans différents langages pris en charge est désormais stable.
+* Un délai de 5 secondes vous est accordé pour annuler la suppression d'un gist ou d'un brouillon avant qu'il disparaisse définitivement.
+* Améliorations diverses
+
+### Nouveautés
+
+* Les formats YAML et TOML sont désormais pris en charge. Vous pouvez maintenant éditer vos fichiers de paramètres en toutes tranquillité. Le HTML, Markdown, SVG, JSON et Texte brut \(et JS, CSS, TOML, YAML, Python et Java en mode édition uniquement\) sont pris en charge.
+* Les fermetures involontaires de la page/onglet ne vous feront plus perdre votre travail, car JdBEdit vous en prévient lorsque votre travail n'est pas enregistré.
+
 ## 11-04-2020 - v2.4.0
 
 ### Fixation de bugs et améliorations
 
 * Amélioration de la fonctionnalité pleine page.
 * Comme pour l'aperçu du code, il est désormais possible de coder en plein écran.
-* Un problème de duplication de gists a été résolu.
+* Un problème de duplication des gists a été résolu.
 * Amélioration des performances.
 
 ### Nouveautés
@@ -40,11 +53,11 @@ var text = "Ceci est le texte a découpé si trop long...";
 var selecteur = "h1";
 var element = document.getElementById("name");
 
-//# Pour découper un text directement :
+//# Pour découper un text directement :
 jdb.ellipsis(null, 25, text);
 // Retourne "Ceci est le texte a décou..."
 
-//# Pour découper le texte d'une élément :
+//# Pour découper le texte d'une élément :
 jdb.ellipsis(selecteur, 25);
 //# ou
 jdb.ellipsis(element, 25);
@@ -53,14 +66,14 @@ jdb.ellipsis(element, 25);
 // remplace par "Ceci est le texte a décou..."
 ```
 
-* Le paramètre `callback` de la fonction `jdb.getUrlParam` a été amélioré afin d'utiliser la valeur du paramètre URL quelle qu’elle soit. Exemple :
+* Le paramètre `callback` de la fonction `jdb.getUrlParam` a été amélioré afin d'utiliser la valeur du paramètre URL quelle qu’elle soit. Exemple :
 
 ```javascript
 jdb.getUrlParam("name", null, function (value) {
     if (value !== null) {
         // URL = https://..../?name=xxxx
         // Le paramètre existe dans l'URL.
-        
+
         if (value === "John") {
             // URL = https://..../?name=John
             // La valeur du paramètre est "John".
@@ -179,11 +192,11 @@ Le paramètre URL `?login=true` est remplacé par la destination `/login` qui re
 
 Pour ceux qui aiment faire des petites notes ou une sorte de liste de tâches pendant qu'ils codent, JdBEdit vous offre aussi la possibilité de sauvegarder vos notes et de les récupérer à n'importe quel moment, sur n'importe quel document.
 
-Pour sauvegarder des notes, allez dans  l'onglet **Paramètre JdBEdit** puis cochez-y la case **Sauvegarder vos notes actuelles et à venir** pour enregistrer vos notes à chaque fois vous en créer un.
+Pour sauvegarder des notes, allez dans l'onglet **Paramètre JdBEdit** puis cochez-y la case **Sauvegarder vos notes actuelles et à venir** pour enregistrer vos notes à chaque fois vous en créer un.
 
 Pour récupérer des notes, il suffit d'ouvrir le **Menu A**, puis survoler le bouton **Édition**, puis cliquer sur **Récupérer les notes sauvegardées.** Vous pouvez éviter supprimer ces notes sauvegardées. Le bouton **Supprimer les notes sauvegardées** se situe juste après le bouton **Récupérer les notes sauvegardées**.
 
-Accès : ****`Menu A` &gt; `Édition` &gt; _Récupérer les notes sauvegardées_
+Accès : _\*\*_`Menu A` &gt; `Édition` &gt; _Récupérer les notes sauvegardées_
 
 ## 25-12-2018
 
@@ -220,7 +233,7 @@ Accès :
 
 Le nouveau centre des notifications vous donne accès aux notifications persistantes, toutes en un seul lieu, afin de vous libérer de la place sur l'écran. Une fois le centre de notifications ouvert, toutes les notifications contenues sont marquées comme lues excepté la notification pour l'acceptation de l'utilisation des cookies qui résistera tant que vous n'avez pas acceptez l'accord.
 
-Accès : 
+Accès :
 
 * _La cloche sur la barre de navigation_,
 * `Ctrl` + `Alt` + `0`
@@ -356,6 +369,4 @@ Ne placez pas votre code dans 3 petites cases, utilisez une véritable page html
 Même si je travaille tout le temps sur JdBEdit, parfois il peut sembler que peu de choses se passent. Ce changelog \(journal des modifications\) est ici pour améliorez cette partie très importante de la communication entre vous et moi.
 
 Vous recevrez toujours une notification dans l'éditeur lorsque j'apporterai une modification dans l'application. Toutes les modifications, les plus importantes en tout cas, seront disponibles sur notre [page publique du journal des modifications](https://docs.code.wetrafa.xyz/changelog).
-
-
 
