@@ -1,8 +1,10 @@
 ---
-description: 'Historique des modifications, des nouveautés et améliorations.'
+description: 'Historique des modifications, nouveautés et améliorations.'
 ---
 
 # Notes de publication
+
+![Notes de mises &#xE0; jour JdBEdit](.gitbook/assets/update_uxn2.png)
 
 ## 08-05-2020 - v2.5.0
 

@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Bienvenu](README.md)
+* [Bienvenue](README.md)
 * [Qu'est-ce-que JdBEdit](quest-ce-quest-jdbedit.md)
 * [Commencer](commencer.md)
 * [Sauvegarde](sauvegarde.md)
