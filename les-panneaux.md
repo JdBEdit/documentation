@@ -34,15 +34,13 @@ Accès :
 * `Menu A` &gt; `Fichier` &gt; _Ouvrir_
 * `Ctrl` + `Alt` + `O`
 
-## Selecteur de couleur
+## Sélecteur de couleur
 
 Choisissez des couleurs depuis l'éditeur.
 
-![\(cp 1\) - Couleur s&#xE9;lectionn&#xE9;e \#5582aa](.gitbook/assets/localhost_8080___dev.index.html-2.png)
+Le panneau Sélecteur de couleur vous permet sélectionner une couleur sur un cadre d'arrière-plan unicolore.  Comment choisir une couleur si l'arrière-plan est unicolore ? C'est simple, survoler le cadre en question \(_grand cadre bleu dans l'illustration ci-dessus, cp 1_\) avec le curseur de votre souris et vous trouverez votre couleur par rapport aux coordonnées de votre curseur.
 
-Le panneau Selecteur de couleur vous permet sélectionner une couleur sur un cadre d'arrière-plan unicolore.  Comment choisir une couleur si l'arrière-plan est unicolore ? C'est simple, survoler le cadre en question \(_grand cadre bleu dans l'illustration ci-dessus, cp 1_\) avec le curseur de votre souris et vous trouverez votre couleur par rapport aux coordonnées de votre curseur.
-
-Une fois la couleur trouvée, cliquez pour confirmer la selection et JdBEdit vous fournira un dégradé de 10 nuances de la couleur choisie \(_illustration ci-après, cp 2_\) - et un thème CSS que vous pouvez copier pour ajouter à votre page.
+Une fois la couleur trouvée, cliquez pour confirmer la sélection et JdBEdit vous fournira un dégradé de 10 nuances de la couleur choisie \(_illustration ci-après, cp 2_\) - et un thème CSS que vous pouvez copier pour ajouter à votre page.
 
 ![\(cp 2\) - D&#xE9;grad&#xE9; de \#5582aa](.gitbook/assets/gradient-cp.png)
 
@@ -85,8 +83,6 @@ Pour insérer un extrait de code JdBEdit à votre code, mettez le curseur à la 
 
 Accès : `Menu A` &gt; `Édition` &gt; _Ajouter un extrait de code_
 
-## 
-
 ## Partager
 
 Ce panneau contient des options de partage de votre fichier. Vous pouvez y obtenir :
@@ -96,5 +92,11 @@ Ce panneau contient des options de partage de votre fichier. Vous pouvez y obten
 * des boutons pour les réseaux sociaux et email,
 * un lien raccourci,
 
-## 
+## Et autres...
+
+{% page-ref page="outils/encodeur-et-decodeur-durl.md" %}
+
+{% page-ref page="outils/compresseur-javascript.md" %}
+
+{% page-ref page="outils/console.md" %}
 

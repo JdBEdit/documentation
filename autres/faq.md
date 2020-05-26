@@ -33,7 +33,7 @@ Si vous sauvegardez votre code sur Gist GitHub, une fois le code en ligne, tout 
 Pour dupliquer un fichier gist, vous devez ouvrir le fichier en question sur JdBEdit et aller dans `Menu A` &gt; `Fichier` &gt; _Dupliquer_.
 
 {% hint style="warning" %}
-**Attention :** Vous ne pouvez pas dupliquer votre propre fichier.
+**Attention :** Vous ne pouvez pas dupliquer votre propre fichier. Mais il est désormais possible d'y arriver en ouvrant le projet à dupliquer en tant que modèle, puis l'enregistrer sur votre compte.
 {% endhint %}
 
 Si vous tenez absolument à dupliquer votre propre fichier, suivez la même procédure pour dupliquer et une notification sera affichée pour vous proposer une alternative de duplication qui s'agit d'ouvrir le fichier actuel en tant que modèle et de l'enregistrer \(manuellement\) en tant que nouveau fichier. Cliquez sur `Ouvrir en tant que modèle` dans la notification pour dupliquer.

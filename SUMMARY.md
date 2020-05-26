@@ -10,7 +10,6 @@
   * [Jeton d'accès Github](se-connecter/jeton-dacces-github.md)
 * [Les panneaux](les-panneaux.md)
 * [Les raccourcis claviers](https://code.wetrafa.xyz/?modal=shortcuts)
-* [Ressources externes](ressources-externes.md)
 * [Les extraits de code](les-extraits-de-code.md)
 * [Notes de publication](note-de-publication.md)
 
