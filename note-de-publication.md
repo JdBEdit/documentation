@@ -6,6 +6,25 @@ description: 'Historique des modifications, nouveautés et améliorations.'
 
 ![Notes de mises &#xE0; jour JdBEdit](.gitbook/assets/update_uxn2.png)
 
+## 07-06-2020 - v2.6.0
+
+### Fixation de bugs et améliorations
+
+* Le champ de code est correctement mis en Pleine page lorsque ce mode est activé.
+* Curseur mis sur pointeur lorsque vous survolez un lien dans l'aperçu d'un fichier JSON.
+* Les librairies ont été mis à jour pour l'ajout rapide dans le panneau Recherche des librairies \([libraries](https://code.wetrafa.xyz/?modal=libraries)\).
+* Améliorations diverses
+
+### Nouveautés
+
+* Nouvelle interface du panneau Extraits de code \([addTo](https://code.wetrafa.xyz/?modal=addTo)\).
+* Certains éléments du panneau Paramètres ont été réorganisés.
+* La navigation dans l'historique de modifications est désormais accessible via la barre de touches juste au dessus de votre code.
+* [**Notes**](https://code.wetrafa.xyz/?modal=notes) : 
+  * Ajout de la date de création/dernière modification d'une note.
+  * Vous pouvez réorganiser les notes à votre guise.
+  * Plus besoin de développer chaque note pour la modifier ou la supprimer, car vous pouvez désormais les faire tout en gardant les notes réduites.
+
 ## 08-05-2020 - v2.5.0
 
 ### Fixation de bugs et améliorations
