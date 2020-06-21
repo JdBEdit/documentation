@@ -28,6 +28,18 @@ JdBEdit n'enregistre pas automatiquement vos modifications lorsque vous apporter
 
 Si vous sauvegardez votre code sur Gist GitHub, une fois le code en ligne, tout le monde peut trouver et  remixer \(dupliquer et modifier\) votre projet même s'il est privé \(une personne qui dispose de l'adresse de votre fichier peut y accéder - Les gists privés ne sont pas vraiment privés\). 
 
+## Où sont stockées mes données ?
+
+Dépendant de votre choix, vos fichiers peuvent-être sauvegardés sur votre navigateur en tant que brouillon ou en ligne, sur GitHub. Vous pouvez aussi télécharger vos fichiers dans vos documents.
+
+{% hint style="info" %}
+Il est recommandé de stocker vos travaux en ligne pour vous assurer que les fichiers ne seront pas perdus si les données de votre navigateur sont effacées.
+{% endhint %}
+
+## JdBEdit peut-il accéder à mes données sans me le dire ?
+
+JdBEdit est une application basée sur un navigateur. Les jetons d'accès émis par GitHub sont stockés sur votre navigateur et ne sont envoyés à aucun type de backend \(serveur\) ou de tierce partie afin que vos données ne soient accessibles à personne.
+
 ## Comment puis-je dupliquer un projet ou un fichier ?
 
 Pour dupliquer un fichier gist, vous devez ouvrir le fichier en question sur JdBEdit et aller dans `Menu A` &gt; `Fichier` &gt; _Dupliquer_.
