@@ -6,6 +6,12 @@ description: 'Historique des modifications, nouveautés et améliorations.'
 
 ![Notes de mises &#xE0; jour JdBEdit](.gitbook/assets/update_uxn2.png)
 
+## 29-07-2020 - v2.6.1
+
+### Fixation de bugs et améliorations diverses
+
+Pas grand chose à mentionner.
+
 ## 07-06-2020 - v2.6.0
 
 ### Fixation de bugs et améliorations
