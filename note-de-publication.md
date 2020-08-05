@@ -6,6 +6,20 @@ description: 'Historique des modifications, nouveautés et améliorations.'
 
 ![Notes de mises &#xE0; jour JdBEdit](.gitbook/assets/update_uxn2.png)
 
+## 06-08-2020 - v2.7.0
+
+### Fixation de bugs et améliorations
+
+* Les notes peuvent à nouveau être supprimée individuellement.
+
+### Nouveautés
+
+Plus d'options sont ajoutées dans le panneau de partage pour un partage plus personnalisé :
+
+* Lecture seule
+* Inclure la sélection 
+* Afficher le code en pleine page
+
 ## 29-07-2020 - v2.6.1
 
 ### Fixation de bugs et améliorations diverses
