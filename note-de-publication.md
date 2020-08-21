@@ -6,6 +6,16 @@ description: 'Historique des modifications, nouveautés et améliorations.'
 
 ![Notes de mises &#xE0; jour JdBEdit](.gitbook/assets/update_uxn2.png)
 
+## 22-08-2020 - v2.8.0
+
+### Fixation de bugs et améliorations
+
+* Correction d'un problème où la position de défilement pouvait sauter lors d'un clic sur une sélection dans Chrome.
+* Correction d'un bug où la mise en page de l'éditeur pouvait rester confuse après un appel à rafraîchir lorsque l'option **retour à la ligne** était activée.
+* Bloque la fermeture de la boîte de dialogue lorsque l'éditeur perd le focus.
+* Désactive la mise en évidence lorsque l'éditeur n'a pas le focus.
+* Mise à jour de **CodeMirror** de la version `5.22.2` à `5.57.0`
+
 ## 06-08-2020 - v2.7.0
 
 ### Fixation de bugs et améliorations
