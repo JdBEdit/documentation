@@ -6,6 +6,16 @@ description: 'Historique des modifications, nouveautés et améliorations.'
 
 ![Notes de mises &#xE0; jour JdBEdit](.gitbook/assets/update_uxn2.png)
 
+## 22-09-2020 - v2.9.0
+
+### Fixation d'un bug
+
+* Fixer le bug qui bloquait la sauvegarde de fichiers lorsqu'on se connecte via le SSO \(on n'était pas considéré comme connecté pour pouvoir achever la sauvegarde\).
+
+### Nouveautés
+
+* Ajout d'un bouton permettant d'insérer un modèle de tableau à votre code via la barre de touches. Il est désormais possible d'ajouter un modèle de tableau HTML ou Markdown à votre code.
+
 ## 22-08-2020 - v2.8.0
 
 ### Fixation de bugs et améliorations
