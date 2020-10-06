@@ -6,6 +6,12 @@ description: 'Historique des modifications, nouveautés et améliorations.'
 
 ![Notes de mises &#xE0; jour JdBEdit](.gitbook/assets/update_uxn2.png)
 
+## 06-10-2020 - v2.10.0
+
+### Nouveautés
+
+Dans le [sélecteur de couleur](https://code.wetrafa.xyz/?modal=colorPicker), lorsque vous rentrez une couleur valide manuellement dans le champ de texte, cette couleur est automatiquement ajoutée à la liste de couleurs sélectionnées.
+
 ## 22-09-2020 - v2.9.0
 
 ### Fixation d'un bug
@@ -15,6 +21,18 @@ description: 'Historique des modifications, nouveautés et améliorations.'
 ### Nouveautés
 
 * Ajout d'un bouton permettant d'insérer un modèle de tableau à votre code via la barre de touches. Il est désormais possible d'ajouter un modèle de tableau HTML ou Markdown à votre code.
+
+## 14-09-2020 - v2.8.2
+
+### Fixation de bugs
+
+Petite fixation du paramètre de cassage de ligne.
+
+## 28-08-2020 - v2.8.1
+
+### Fixation de bugs
+
+* Correction de l'ajout du modèle de style dans l'aperçu du fichier markdown.
 
 ## 22-08-2020 - v2.8.0
 
