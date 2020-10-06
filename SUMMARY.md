@@ -37,5 +37,5 @@
 ## Apps connexes
 
 * [Statut](https://status.code.wetrafa.xyz/)
-* [Aperçu / Preview](https://preview.codewith.wetrafa.xyz)
+* [Preview / Aperçu](https://preview.codewith.wetrafa.xyz/home)
 
