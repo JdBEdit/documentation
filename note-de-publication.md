@@ -6,6 +6,19 @@ description: 'Historique des modifications, nouveautés et améliorations.'
 
 ![Notes de mises &#xE0; jour JdBEdit](.gitbook/assets/update_uxn2.png)
 
+## 08-10-2020 - v2.11.0
+
+### Fixation de bugs
+
+* Correction de fautes de frappe.
+* Correction de l'ouverture du formulaire de contact via le Menu B.
+
+### Nouveautés
+
+* A l'aide du bouton permettant d'insérer un modèle de tableau ajouté dans la [version précédente](https://docs.code.wetrafa.xyz/note-de-publication#22-09-2020-v-2-9-0), il est désormais possible de créer un tableau et de le personnaliser en indiquant le nombre de colonnes et de lignes que vous souhaitez pour votre tableau.
+* Ajout de suivis d'actions majeures.
+* Amélioration de l'interface de connexion avec le jeton d'accès GitHub.
+
 ## 06-10-2020 - v2.10.0
 
 ### Nouveautés
