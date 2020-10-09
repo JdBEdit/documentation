@@ -225,7 +225,7 @@ Le paramètre URL `?login=true` est remplacé par la destination `/login` qui re
 * Amélioration de performances.
 * Amélioration de la possibilité de connexion avec un `acces_token` \(jeton d'accès GitHub\).
 * Amélioration de l'interface du panneau Paramètre JdBEdit.
-* Amélioration des notifications qui prévienne qu'un langage n'est pas pris en charge. 
+* Amélioration de notifications qui préviennent qu'un langage n'est pas pris en charge. 
 * Amélioration de l'interface du panneau de connexion qui s'appelle désormais Portail de connexion.
 * Suppression du conflit dans la création d'un Gist alors q'un brouillon est ouvert, et vice versa.
 
