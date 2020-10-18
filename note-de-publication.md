@@ -6,6 +6,13 @@ description: 'Historique des modifications, nouveautés et améliorations.'
 
 ![Notes de mises &#xE0; jour JdBEdit](.gitbook/assets/update_uxn2.png)
 
+## 18-10-2020 - v2.12.0
+
+### Nouveautés
+
+* Lorsque le paramètre `theme` est dans l'URL avec une valeur valable, JdBEdit privilégie ce thème  indiqué dans l'URL.
+* Nouveau bouton permettant d'insérer une ligne horizontal dans le code HTML et Markdown.
+
 ## 08-10-2020 - v2.11.0
 
 ### Fixation de bugs
