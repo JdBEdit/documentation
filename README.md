@@ -11,6 +11,10 @@ description: >-
 Ceci est la documentation de la nouvelle version de la plateforme JdBEdit. Vous pouvez en apprendre plus sur tout ce qui a été amélioré jusqu'à la dernière version [ici](note-de-publication.md).
 {% endhint %}
 
+{% hint style="warning" %}
+Cette documentation est non-exhaustive.
+{% endhint %}
+
 Pour en savoir plus sur JdBEdit, veuillez continuer votre visite guidée.
 
 {% page-ref page="quest-ce-quest-jdbedit.md" %}
