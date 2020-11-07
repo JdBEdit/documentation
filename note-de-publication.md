@@ -6,6 +6,13 @@ description: 'Historique des modifications, nouveautés et améliorations.'
 
 ![Notes de mises &#xE0; jour JdBEdit](.gitbook/assets/update_uxn2.png)
 
+## 07-11-2020 - v2.12.3
+
+### Fixation de bugs
+
+* Lors du chargement d'un seul fichier dans l'éditeur, JdBEdit utilise ce nom de fichier comme nom de fichier JdBEdit s'il n'y a pas déjà un nom de fichier.
+* La plage de sélection de textes dans l'URL fonctionne désormais correctement. \(Avant lorsqu'on supprimais une sélection, sa plage ne se supprimais pas l'URL.\)
+
 ## 18-10-2020 - v2.12.0
 
 ### Nouveautés
