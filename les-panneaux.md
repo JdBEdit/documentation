@@ -96,7 +96,5 @@ Ce panneau contient des options de partage de votre fichier. Vous pouvez y obten
 
 {% page-ref page="outils/encodeur-et-decodeur-durl.md" %}
 
-{% page-ref page="outils/compresseur-javascript.md" %}
-
 {% page-ref page="outils/console.md" %}
 

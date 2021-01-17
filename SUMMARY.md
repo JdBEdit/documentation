@@ -22,7 +22,6 @@
 ## Outils
 
 * [Encodeur et décodeur d'URL](outils/encodeur-et-decodeur-durl.md)
-* [Compresseur JavaScript](outils/compresseur-javascript.md)
 * [Sélecteur de couleur](outils/selecteur-de-couleur.md)
 * [Importeur de code](outils/importeur-de-code.md)
 * [Mise en forme](outils/mise-en-forme.md)
@@ -31,11 +30,15 @@
 ## Autres
 
 * [A propos](https://code.wetrafa.xyz/a-propos)
-* [FAQ](autres/faq.md)
 * [Licence](autres/licence.md)
 
-## Apps connexes
+---
 
+* [FAQ](faq.md)
+
+## Applications
+
+* [Preview / Aperçu](https://preview.code.wetrafa.xyz/home)
+* [Editeur JdBEdit](https://code.wetrafa.xyz)
 * [Statut](https://status.code.wetrafa.xyz/)
-* [Preview / Aperçu](https://preview.codewith.wetrafa.xyz/home)
 

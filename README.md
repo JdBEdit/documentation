@@ -21,7 +21,7 @@ Pour en savoir plus sur JdBEdit, veuillez continuer votre visite guidée.
 
 Vous pouvez également consultez la foire aux questions sur JdBEdit :
 
-{% page-ref page="autres/faq.md" %}
+{% page-ref page="faq.md" %}
 
 {% page-ref page="note-de-publication.md" %}
 

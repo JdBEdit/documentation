@@ -1,2 +1,0 @@
-# Compresseur JavaScript
-

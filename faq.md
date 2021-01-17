@@ -8,13 +8,13 @@ description: Foire aux questions fréquemment posées.
 
 JdBEdit est un IDE, un éditeur de code pour le HTML, le JavaScript, le CSS et le Markdown conçu pour aider les gens à apprendre, créer et partager le Web avec le Web. Vous avez votre code sur le côté gauche de l'écran et un aperçu de votre code sur le côté droit de la fenêtre. Lorsque vous modifiez votre code, vous devez l'exécuter pour apporter les modifications dans l'aperçu. De plus, JdBEdit regorge d’outils d’apprentissage pour vous aider à évoluer sans niveau de compétences.
 
-{% page-ref page="../quest-ce-quest-jdbedit.md" %}
+{% page-ref page="quest-ce-quest-jdbedit.md" %}
 
 ## Comment créer un fichier ?
 
 Pour créer un fichier, référez-vous à la page **Commencer**.
 
-{% page-ref page="../commencer.md" %}
+{% page-ref page="commencer.md" %}
 
 ## Comment créer un compte ?
 
@@ -64,11 +64,11 @@ Si vous créez des fichiers  _.markdown_ ou __ _.md_, JdBEdit créera automatiqu
 
 Pour en savoir plus sur comment créer un fichier, rendez-vous sur :
 
-{% page-ref page="../commencer.md" %}
+{% page-ref page="commencer.md" %}
 
 Vous pouvez ajouter un style initial au rendu de votre markdown en cachant dans les Paramètre JdBEdit la case **Ajouter du style au markdown** comme illustré ci-après :
 
-![](../.gitbook/assets/localhost_8080___dev.index.html_modal-setting-1.png)
+![](.gitbook/assets/localhost_8080___dev.index.html_modal-setting-1.png)
 
 ## Comment supprimer les cookies ?
 
