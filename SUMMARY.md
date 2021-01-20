@@ -38,7 +38,7 @@
 
 ## Applications
 
-* [Preview / Aperçu](https://preview.code.wetrafa.xyz/home)
+* [Preview / Aperçu](https://preview.codewith.wetrafa.xyz/home)
 * [Editeur JdBEdit](https://code.wetrafa.xyz)
 * [Statut](https://status.code.wetrafa.xyz/)
 
