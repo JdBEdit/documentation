@@ -6,28 +6,88 @@ description: 'Historique des modifications, nouveautés et améliorations.'
 
 ![Notes de mises &#xE0; jour JdBEdit](.gitbook/assets/update_uxn2.png)
 
+## 02-08-2021 - v2.13.0
+
+### Nouveautés <a id="nouveautes-v-2-13-0"></a>
+
+* ⭐ Il est désormais possible de créer les dots files : les fichiers de configurations dont le nom commence par un point. Ex. : `.gitignore`,  `.env`.
+* ⭐ Il est possible de redimensionner le panneau d'aperçu en cliquant sur le bouton contenant les dimensions du cadre d'aperçu situé juste au-dessus de celui-ci. Ensuite vous pouvez choisir entre Mobile, Tablette, Ordinateur et Défaut.
+
+![](.gitbook/assets/image.png)
+
+* Vous pouvez maintenant partager votre thème de l'éditeur en cochant "Inclure le thème" dans le [panneau de partage](https://code.wetrafa.xyz/?modal=share).
+* Dans ce même panneau de partage, vous pouvez ouvrir des liens en cliquant simplement sur l'icône ouvrir.
+* Un ouvrant un fichier en fournissant son id dans le [panneau loadFile](https://code.wetrafa.xyz/?modal=loadFile), vous avez la possibilité de l'ouvrir dans un nouvel onglet. Une case à cocher a été ajouté à cet effet.
+* Vous souhaitez rapidement supprimer l'historique de modifications \(lorsque vous saisissez du texte\) ? Pas de soucis. Une combinaison de touches `Alt` + `W` a été ajouté pour cela.
+* ⭐ Lorsque vous ouvrez un fichier qui n'existe plus parce qu'il a été supprimé et que vous aviez déjà ouvert ce même fichier avant qu'il soit supprimé \(c'est-à-dire qu'il se trouve déjà dans l'historique des fichiers ouverts\), ce fichier supprimé sera également placé dans l'historique des fichiers supprimés, comme ça il sera reconnu et marqué par JdBEdit comme inexistant.
+* ⭐ Lorsque vous ouvrez un fichier qui a été renommer, mais que ce fichier avait été ouvert avant qu'il soit renommé \(c'est-à-dire qu'il se trouve déjà dans l'historique des fichiers ouverts\), JdBEdit met à jour le nom du fichier dans l'historique également.
+* ⭐⭐ Une des plus grosses nouveautés : l'affichage des commentaires sur les fichiers Gist GitHub. Accédez aux [`Paramètres`](https://code.wetrafa.xyz/?modal=setting) puis `Voir plus des détails`. Tout en bas vous pourrez charger les commentaires au fur et à mesure s'il y en a. Ils ne sont pas chargés par défaut pour économiser les ressources.
+
+![](.gitbook/assets/image%20%283%29.png)
+
+* ⭐ Vous pouvez désormais avoir un aperçu en couleur de vos blocs de code dans des fichiers Markdown et les blocs de codes dans les commentaires du fichier. Cette mise en couleur ne s'enregistre pas avec les fichiers et peut s'activer dans les Paramètres.
+* Ajout de la police Fira Code.
+* ⭐ Ajout de la ligature de la police \(disponible uniquement pour les polices qui supportent la ligature\). Seule la police "Fira Code" supporte la ligature pour le moment.
+* Ajout d'un large espace à la fin du code pour une meilleure visualisation des dernières lignes de votre code. Cet espace ne contient que la dernière ligne et ne fait pas partie du fichier.
+
+### Améliorations <a id="ameliorations-v-2-13-0"></a>
+
+* Amélioration des actions des boutons d'édition rapide \(pour HTML et Markdown\). Avant, il n'était pas possible d'appliquer une balise sur plusieurs sélections de texte, mais désormais, c'est possible. De plus, le balisage des listes a été amélioré.
+* La fonction de mise à jour automatique de l'aperçu du code a été optimisée pour exécuter le code le nombre de secondes défini après la dernière inactivité détectée \(lorsque vous ne tapez plus\).
+* En supprimant les notes dans [Notes](https://code.wetrafa.xyz/?modal=notes), lorsqu'il n'y en plus, l'affichage initial indiquant qu'il n'y a plus de notes réapparaît... Logique !
+* L'affichage des listes déroulantes du `Menu A` a été amélioré.
+* Amélioration des performances en désactivant la mise à jour automatique des informations sur le curseur dans le code, et autre, du panneau en pied page lorsque celles-ci ne sont pas visibles.
+* Lorsque vous ouvrez un fichier censé appliquer un thème \(une colorisation du code\) donné dans l'URL, si ce thème n'existe pas ou est incorrecte \(pour l'une ou l'autre raison\), JdBEdit appliquera le thème par défaut ou le thème que vous avez défini dans les paramètres.
+* Créer un nouveau fichier est devenu plus facile même avec un autre fichier ouvert. Il suffit de cliquer sur `Nouveau` dans l'onglet `Fichier` du `Menu A` ou avec la combinaison des touches `Ctrl` + `Alt` + `N`. Ensuite, la page s'actualise et un nouveau fichier commence.
+* Le tableau de l'historique des fichiers ouverts n'est plus masqué lors de la suppression d'un élément de ce tableau.
+* Amélioration de la mise à jour du paramètre URL `select` lors de la sélection du code.
+* En important votre historique des fichiers ouverts/dupliqués/supprimés, les caractères avec accent sont dérsomais bien encodés. Plus des carrés ou des points d'interrogation au lieu d'un "é" dans le fichier JSON.
+* Et toujours dans l'historique, vous pouvez importer votre sauvegarde tout en profitant d'une fusion sans fail de votre sauvegarde et de l'historique existant.
+
+![](.gitbook/assets/image%20%284%29.png)
+
+* Maintenant lorsque vous quittez JdBEdit sans avoir sauvegardé vos modifications et sans fermer l'onglet ou la fenêtre, le message d'alerte qui s'affichait tout de suite à la place du titre de l'onglet ne s'affiche plus que 3 secondes après votre départ.
+* Envoyer un [formulaire de contact](https://code.wetrafa.xyz/contact) n'ouvre plus de nouvel onglet, et confirmer le code reCAPTCHA n'envoie plus systématiquement le formulaire.
+* Quelques fautes de frappes ont aussi été corrigés.
+
+### Fixation de bugs <a id="fixation-de-bugs-v-2-13-0"></a>
+
+* Correction de la suppression d'un élément de l'historique de fichiers ouverts/dupliqués/supprimés \(avant, lors de la suppression d'un élément dans l'historique, le mauvais élément était supprimé au lieu de l'élément sur lequel on a cliqué, et la liste n'était pas mise à jour correctement\).
+* Quelques dysfonctionnements dans le centre des notifications ont été fixés.
+* Correction du dysfonctionnements du paramètre `stacked` dans l'URL \(pour l'orientation verticale ou horizontale des cadres Code - Aperçu\) lors de l'ouverture d'un fichier Gist.
+* Le paramètre de lecture seul a été fixé dans les [Paramètres](https://code.wetrafa.xyz/?modal=setting).
+
+### Suppression de fonctionnalités
+
+* La fonction d'importation d'un pen CodePen a été retirée pour certaines raisons par rapport aux autorisations d'accès de CodePen.
+* Suppression du panneau de dialogue CodeMirror pour les notes ou listes des tâches. Utilisez [Notes](https://code.wetrafa.xyz/?modal=notes) à la place, pour une meilleure organisation.
+* Suppression de l'outil de compresse du code JavaScript JS Closure.
+* Suppression de certaines méthodes dépréciées.
+
+Voilà tout. Enjoy !
+
 ## 07-11-2020 - v2.12.3
 
-### Fixation de bugs
+### Fixation de bugs <a id="fixation-de-bugs-v-2-12-3"></a>
 
 * Lors du chargement d'un seul fichier dans l'éditeur, JdBEdit utilise ce nom de fichier comme nom de fichier JdBEdit s'il n'y a pas déjà un nom de fichier.
 * La plage de sélection de textes dans l'URL fonctionne désormais correctement. \(Avant lorsqu'on supprimais une sélection, sa plage ne se supprimais pas l'URL.\)
 
 ## 18-10-2020 - v2.12.0
 
-### Nouveautés
+### Nouveautés <a id="nouveautes-v-2-12-0"></a>
 
 * Lorsque le paramètre `theme` est dans l'URL avec une valeur valable, JdBEdit privilégie ce thème  indiqué dans l'URL.
 * Nouveau bouton permettant d'insérer une ligne horizontal dans le code HTML et Markdown.
 
 ## 08-10-2020 - v2.11.0
 
-### Fixation de bugs
+### Fixation de bugs <a id="fixation-de-bugs-v-2-11-0"></a>
 
 * Correction de fautes de frappe.
 * Correction de l'ouverture du formulaire de contact via le Menu B.
 
-### Nouveautés
+### Nouveautés <a id="nouveautes-v-2-11-0"></a>
 
 * A l'aide du bouton permettant d'insérer un modèle de tableau ajouté dans la [version précédente](https://docs.code.wetrafa.xyz/note-de-publication#22-09-2020-v-2-9-0), il est désormais possible de créer un tableau et de le personnaliser en indiquant le nombre de colonnes et de lignes que vous souhaitez pour votre tableau.
 * Ajout de suivis d'actions majeures.
@@ -35,17 +95,17 @@ description: 'Historique des modifications, nouveautés et améliorations.'
 
 ## 06-10-2020 - v2.10.0
 
-### Nouveautés
+### Nouveautés <a id="nouveautes-v-2-10-0"></a>
 
 Dans le [sélecteur de couleur](https://code.wetrafa.xyz/?modal=colorPicker), lorsque vous rentrez une couleur valide manuellement dans le champ de texte, cette couleur est automatiquement ajoutée à la liste de couleurs sélectionnées.
 
 ## 22-09-2020 - v2.9.0
 
-### Fixation d'un bug
+### Fixation d'un bug <a id="fixation-dun-bug-v-2-9-0"></a>
 
 * Fixer le bug qui bloquait la sauvegarde de fichiers lorsqu'on se connecte via le SSO \(on n'était pas considéré comme connecté pour pouvoir achever la sauvegarde\).
 
-### Nouveautés
+### Nouveautés <a id="nouveautes-v-2-9-0"></a>
 
 * Ajout d'un bouton permettant d'insérer un modèle de tableau à votre code via la barre de touches. Il est désormais possible d'ajouter un modèle de tableau HTML ou Markdown à votre code.
 
