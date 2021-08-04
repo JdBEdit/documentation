@@ -57,7 +57,7 @@ description: 'Historique des modifications, nouveautés et améliorations.'
 * Correction du dysfonctionnements du paramètre `stacked` dans l'URL \(pour l'orientation verticale ou horizontale des cadres Code - Aperçu\) lors de l'ouverture d'un fichier Gist.
 * Le paramètre de lecture seul a été fixé dans les [Paramètres](https://code.wetrafa.xyz/?modal=setting).
 
-### Suppression de fonctionnalités
+### Suppression de fonctionnalités <a id="suppression-de-fonctionnalites-v-2-13-0"></a>
 
 * La fonction d'importation d'un pen CodePen a été retirée pour certaines raisons par rapport aux autorisations d'accès de CodePen.
 * Suppression du panneau de dialogue CodeMirror pour les notes ou listes des tâches. Utilisez [Notes](https://code.wetrafa.xyz/?modal=notes) à la place, pour une meilleure organisation.
@@ -111,19 +111,19 @@ Dans le [sélecteur de couleur](https://code.wetrafa.xyz/?modal=colorPicker), lo
 
 ## 14-09-2020 - v2.8.2
 
-### Fixation de bugs
+### Fixation de bugs <a id="fixation-de-bugs-v-2-8-2"></a>
 
 Petite fixation du paramètre de cassage de ligne.
 
 ## 28-08-2020 - v2.8.1
 
-### Fixation de bugs
+### Fixation de bugs <a id="fixation-de-bugs-v-2-8-1"></a>
 
 * Correction de l'ajout du modèle de style dans l'aperçu du fichier markdown.
 
 ## 22-08-2020 - v2.8.0
 
-### Fixation de bugs et améliorations
+### Fixation de bugs et améliorations <a id="fixation-de-bugs-et-ameliorations-v-2-8-0"></a>
 
 * Correction d'un problème où la position de défilement pouvait sauter lors d'un clic sur une sélection dans Chrome.
 * Correction d'un bug où la mise en page de l'éditeur pouvait rester confuse après un appel à rafraîchir lorsque l'option **retour à la ligne** était activée.
@@ -133,11 +133,11 @@ Petite fixation du paramètre de cassage de ligne.
 
 ## 06-08-2020 - v2.7.0
 
-### Fixation de bugs et améliorations
+### Fixation de bugs et améliorations <a id="fixation-de-bugs-et-ameliorations-v-2-7-0"></a>
 
 * Les notes peuvent à nouveau être supprimée individuellement.
 
-### Nouveautés
+### Nouveautés <a id="nouveautes-v-2-7-0"></a>
 
 Plus d'options sont ajoutées dans le panneau de partage pour un partage plus personnalisé :
 
@@ -147,20 +147,20 @@ Plus d'options sont ajoutées dans le panneau de partage pour un partage plus pe
 
 ## 29-07-2020 - v2.6.1
 
-### Fixation de bugs et améliorations diverses
+### Fixation de bugs et améliorations diverses <a id="fixation-de-bugs-et-ameliorations-diverses-v-2-6-1"></a>
 
 Pas grand chose à mentionner.
 
 ## 07-06-2020 - v2.6.0
 
-### Fixation de bugs et améliorations
+### Fixation de bugs et améliorations <a id="fixation-de-bugs-et-ameliorations-v-2-6-0"></a>
 
 * Le champ de code est correctement mis en Pleine page lorsque ce mode est activé.
 * Curseur mis sur pointeur lorsque vous survolez un lien dans l'aperçu d'un fichier JSON.
 * Les librairies ont été mis à jour pour l'ajout rapide dans le panneau Recherche des librairies \([libraries](https://code.wetrafa.xyz/?modal=libraries)\).
 * Améliorations diverses
 
-### Nouveautés
+### Nouveautés <a id="nouveautes-v-2-6-0"></a>
 
 * Nouvelle interface du panneau Extraits de code \([addTo](https://code.wetrafa.xyz/?modal=addTo)\).
 * Certains éléments du panneau Paramètres ont été réorganisés.
@@ -172,27 +172,27 @@ Pas grand chose à mentionner.
 
 ## 08-05-2020 - v2.5.0
 
-### Fixation de bugs et améliorations
+### Fixation de bugs et améliorations <a id="fixation-de-bugs-et-ameliorations-v-2-5-0"></a>
 
 * La mise en commentaire du texte dans différents langages pris en charge est désormais stable.
 * Un délai de 5 secondes vous est accordé pour annuler la suppression d'un gist ou d'un brouillon avant qu'il disparaisse définitivement.
 * Améliorations diverses
 
-### Nouveautés
+### Nouveautés <a id="nouveautes-v-2-5-0"></a>
 
 * Les formats YAML et TOML sont désormais pris en charge. Vous pouvez maintenant éditer vos fichiers de paramètres en toutes tranquillité. Le HTML, Markdown, SVG, JSON et Texte brut \(et JS, CSS, TOML, YAML, Python et Java en mode édition uniquement\) sont pris en charge.
 * Les fermetures involontaires de la page/onglet ne vous feront plus perdre votre travail, car JdBEdit vous en prévient lorsque votre travail n'est pas enregistré.
 
 ## 11-04-2020 - v2.4.0
 
-### Fixation de bugs et améliorations
+### Fixation de bugs et améliorations <a id="fixation-de-bugs-et-ameliorations-v-2-4-0"></a>
 
 * Amélioration de la fonctionnalité pleine page.
 * Comme pour l'aperçu du code, il est désormais possible de coder en plein écran.
 * Un problème de duplication des gists a été résolu.
 * Amélioration des performances.
 
-### Nouveautés
+### Nouveautés <a id="nouveautes-v-2-4-0"></a>
 
 * Lors du téléchargement d'un fichier en tant que fichier Word, tous les scripts \(s'il y en a\) contenus dans le code sont retirés, car Word n’exécute pas JavaScript.
 * JdBEdit insère maintenant la plage de sélection dans l'URL pour permettre de pointer une partie spécifique du code lors du partage d'un fichier.
@@ -200,11 +200,11 @@ Pas grand chose à mentionner.
 
 ## 07-04-2020 - v2.3.1
 
-### Fixation de bugs mineurs
+### Fixation de bugs mineurs <a id="fixation-de-bugs-mineurs-v-2-3-1"></a>
 
 * On peut désormais de nouveau  ouvrir le code normalement sur CodePen.
 
-### Améliorations
+### Améliorations <a id="ameliorations-v-2-3-1"></a>
 
 * Demande de confirmation de suppression d'une note avant de complètement supprimer celle-ci.
 * Interface des onglets pop-ups simplifiée.
@@ -256,11 +256,11 @@ jdb.getUrlParam("name", null, function (value) {
 
 ## 25-03-2020 - v2.3.0
 
-### Fixation de bugs mineurs et majeurs
+### Fixation de bugs mineurs et majeurs <a id="fixation-de-bugs-mineurs-et-majeurs-v-2-3-0"></a>
 
 * Ajour du paramètre URL lors de l'ouverture de dernier fichier ouvert.
 
-### Améliorations
+### Améliorations <a id="ameliorations-v-2-3-0"></a>
 
 * Amélioration du fonctionnement d'autres paramètres URL.
 * Amélioration de la fonctionnalité **Aller à la ligne** : Nouveau style + atteinte instantanée de la ligne sélectionnée.
@@ -281,7 +281,7 @@ jdb.getUrlParam("name", null, function (value) {
   * `jdb.addEvent`
   * `jdb.addMultipleEvent`
 
-### **Nouveauté**
+### **Nouveautés** <a id="nouveautes-v-2-3-0"></a>
 
 * Nouvelle interface pour enregistrer des notes dans l'éditeur accessible via la barre de menu. De ce fait, l'option **Sauvegarder vos notes actuelles et à venir** a été retirée des paramètres.
 * Nouvelles option **Retour à la ligne forcé** dans les paramètres : permet le passage à la ligne du texte lorsque le panneau du code est  redimensionné à une taille plus petite. Désactivé par défaut.
@@ -305,7 +305,7 @@ Le paramètre URL `?login=true` est remplacé par la destination `/login` qui re
 
 ## 04-11-2019 - v2.2.2
 
-#### Fixation de bugs \(Améliorations\) :
+### Fixation de bugs \(Améliorations\) : <a id="fixation-de-bugs-ameliorations-v-2-2-2"></a>
 
 * Ajout d'un badge pro pour les comptes GitHub qui ont un accès PRO.
 * Il y a désormais un avertissement lorsque vous ouvrez un brouillon alors qu'il y a du code non sauvegardé.
@@ -314,7 +314,7 @@ Le paramètre URL `?login=true` est remplacé par la destination `/login` qui re
 
 ## 24-09-2019 - v2.2.1
 
-#### Fixation de bugs \(Améliorations\) :
+### Fixation de bugs \(Améliorations\) : <a id="fixation-de-bugs-ameliorations-v-2-2-1"></a>
 
 * Ajout d'un badge pro pour les comptes GitHub qui ont un accès PRO.
 * Vous pouvez à nouveau  rentrer votre code couleur dans le sélecteur de couleur.
@@ -322,7 +322,7 @@ Le paramètre URL `?login=true` est remplacé par la destination `/login` qui re
 
 ## 21-08-2019 - v2.2.0
 
-#### Fixation de bugs \(Améliorations\) :
+### Fixation de bugs \(Améliorations\) : <a id="fixation-de-bugs-ameliorations-v-2-2-0"></a>
 
 * Retirer le paramètre URL modal lorsque le panneau en question n'est pas affiché ; et le remettre lorsque le panneau est affiché.
 * Ajout de plus d'informations sur les types de fichiers pris en charge.
@@ -335,7 +335,7 @@ Le paramètre URL `?login=true` est remplacé par la destination `/login` qui re
 
 ## 19-08-2019 - v2.1.9
 
-#### Fixation de bugs mineurs \(Améliorations\) :
+### Fixation de bugs mineurs \(Améliorations\) : <a id="fixation-de-bugs-mineurs-ameliorations-v-2-1-9"></a>
 
 * Correction de quelques fautes de frappe.
 * Suppression du bogue lors de l'envoi du formulaire de contact.
@@ -344,7 +344,7 @@ Le paramètre URL `?login=true` est remplacé par la destination `/login` qui re
 
 ## 15-07-2019
 
-#### Fixation de bugs mineurs \(Améliorations\) :
+### Fixation de bugs mineurs \(Améliorations\) : <a id="fixation-de-bugs-mineurs-ameliorations-15-07-2019"></a>
 
 * Correction de quelques fautes de frappe.
 * Suppression du bogue lors de l'envoi du formulaire de contact.
@@ -352,7 +352,7 @@ Le paramètre URL `?login=true` est remplacé par la destination `/login` qui re
 
 ## 27-12-2018
 
-### Sauvegarde des notes
+### Sauvegarde des notes <a id="sauvegarde-des-notes-27-12-2018"></a>
 
 #### Nouveau
 
