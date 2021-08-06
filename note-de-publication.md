@@ -32,6 +32,7 @@ description: 'Historique des modifications, nouveautés et améliorations.'
 
 ### Améliorations <a id="ameliorations-v-2-13-0"></a>
 
+* Lorsque vous partagez un fichier gist sur les réseaux sociaux \(messages ou postes\), vous pouvez désormais voir le titre et la description de ce fichier, et pas que le titre de temps en temps comme avant. JdBEdit a été optimisé pour cela.
 * Amélioration des actions des boutons d'édition rapide \(pour HTML et Markdown\). Avant, il n'était pas possible d'appliquer une balise sur plusieurs sélections de texte, mais désormais, c'est possible. De plus, le balisage des listes a été amélioré.
 * La fonction de mise à jour automatique de l'aperçu du code a été optimisée pour exécuter le code le nombre de secondes défini après la dernière inactivité détectée \(lorsque vous ne tapez plus\).
 * En supprimant les notes dans [Notes](https://code.wetrafa.xyz/?modal=notes), lorsqu'il n'y en plus, l'affichage initial indiquant qu'il n'y a plus de notes réapparaît... Logique !
