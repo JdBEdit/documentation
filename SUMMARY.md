@@ -11,7 +11,8 @@
 * [Les panneaux](les-panneaux.md)
 * [Les raccourcis claviers](https://code.wetrafa.xyz/?modal=shortcuts)
 * [Les extraits de code](les-extraits-de-code.md)
-* [Notes de publication](note-de-publication.md)
+* [Notes de publication](note-de-publication/README.md)
+  * [Version initiale](note-de-publication/version-initiale.md)
 
 ## Paramètres
 

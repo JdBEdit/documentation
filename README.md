@@ -8,7 +8,7 @@ description: >-
 # Bienvenue
 
 {% hint style="info" %}
-Ceci est la documentation de la nouvelle version de la plateforme JdBEdit. Vous pouvez en apprendre plus sur tout ce qui a été amélioré jusqu'à la dernière version [ici](note-de-publication.md).
+Ceci est la documentation de la nouvelle version de la plateforme JdBEdit. Vous pouvez en apprendre plus sur tout ce qui a été amélioré jusqu'à la dernière version [ici](note-de-publication/).
 {% endhint %}
 
 {% hint style="warning" %}
@@ -23,5 +23,5 @@ Vous pouvez également consultez la foire aux questions sur JdBEdit :
 
 {% page-ref page="faq.md" %}
 
-{% page-ref page="note-de-publication.md" %}
+{% page-ref page="note-de-publication/" %}
 
