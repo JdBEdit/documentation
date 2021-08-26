@@ -6,11 +6,35 @@ description: 'Historique des modifications, nouveautés et améliorations.'
 
 ![Notes de mises &#xE0; jour JdBEdit](../.gitbook/assets/update_uxn2.png)
 
+## 26-08-2021 - v2.14.0
+
+### Nouveautés <a id="ameliorations-v-2-13-0"></a>
+
+* Il est désormais possible d'exécuter du JavaScript dans un fichier .js, sans passer par la balise `script` dans le HTML. Écrivez et exécutez votre JS et JdBEdit s'occupe du reste.
+* Maintenant, vous pouvez exécuter un fichier SVG \(titre.svg\) sans avoir à inclure son code dans un fichier HTML.
+* Étant donné que l'éditeur ne s'adapte pas aux petits écrans, lorsque vous êtes sur un écran dont la largeur est inférieure à 1000 pixels, un petit message que vous pouvez ignorer sera affiché.
+
+### Améliorations <a id="ameliorations-v-2-13-0"></a>
+
+* JdBEdit ne propose plus de nom de fichier pour les dot files. C'était considéré comme format invalide avant la version 2.13.0, mais désormais, vous n'aurez plus un "blabla.env" en proposition.
+
+### Fixation de bugs <a id="fixation-de-bugs-v-2-13-0"></a>
+
+* Boutons de mise en forme rapide : un bug a été fixé pour l'attribut `alt` de la balise img et le texte de la balise `a`. Lorsque plusieurs lignes de texte \(non-URL\) ont été sélectionnées, elles sont fusionnées en une seule ligne.
+* Le titre de la page d'un fichier introuvable est désormais persistant, même lorsque vous faites une modification dans l'éditeur.
+
+### Suppression de fonctionnalités <a id="suppression-de-fonctionnalites-v-2-13-0"></a>
+
+* La fonctionnalité permettant de  marquer du texte sélectionné a été supprimée.
+* Dans l'historique des fichiers, vous ne pouvez plus "Cliquer pour copier" l'ID d'un fichier supprimé.
+
 ## 02-08-2021 - v2.13.0
+
+**Sous-versions de fixes mineurs** : v2.13.1, v2.13.1, v2.13.3
 
 ### Nouveautés <a id="nouveautes-v-2-13-0"></a>
 
-* ⭐ Il est désormais possible de créer les dots files : les fichiers de configurations dont le nom commence par un point. Ex. : `.gitignore`,  `.env`.
+* ⭐ Il est désormais possible de créer les dot files : les fichiers de configurations dont le nom commence par un point. Ex. : `.gitignore`,  `.env`.
 * ⭐ Il est possible de redimensionner le panneau d'aperçu en cliquant sur le bouton contenant les dimensions du cadre d'aperçu situé juste au-dessus de celui-ci. Ensuite vous pouvez choisir entre Mobile, Tablette, Ordinateur et Défaut.
 
 ![](../.gitbook/assets/image.png)
