@@ -8,6 +8,8 @@ description: 'Historique des modifications, nouveautés et améliorations.'
 
 ## 26-08-2021 - v2.14.0
 
+**Sous-versions de fixes mineurs** : v2.14.1, v2.14.2
+
 ### Nouveautés <a id="ameliorations-v-2-13-0"></a>
 
 * Il est désormais possible d'exécuter du JavaScript dans un fichier .js, sans passer par la balise `script` dans le HTML. Écrivez et exécutez votre JS et JdBEdit s'occupe du reste.
@@ -30,7 +32,7 @@ description: 'Historique des modifications, nouveautés et améliorations.'
 
 ## 02-08-2021 - v2.13.0
 
-**Sous-versions de fixes mineurs** : v2.13.1, v2.13.1, v2.13.3
+**Sous-versions de fixes mineurs** : v2.13.1, v2.13.2, v2.13.3
 
 ### Nouveautés <a id="nouveautes-v-2-13-0"></a>
 
