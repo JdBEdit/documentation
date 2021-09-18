@@ -8,7 +8,7 @@ description: 'Historique des modifications, nouveautés et améliorations.'
 
 ## 26-08-2021 - v2.14.0
 
-**Sous-versions de fixes mineurs** : v2.14.1, v2.14.2
+**Sous-versions de fixes mineurs** : v2.14.1, v2.14.2, v2.14.3
 
 ### Nouveautés <a id="ameliorations-v-2-13-0"></a>
 
