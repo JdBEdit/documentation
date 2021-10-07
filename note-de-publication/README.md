@@ -6,6 +6,28 @@ description: 'Historique des modifications, nouveautés et améliorations.'
 
 ![Notes de mises &#xE0; jour JdBEdit](../.gitbook/assets/update_uxn2.png)
 
+## 07-10-2021 - v2.15.0
+
+### Nouveautés
+
+* Ajout d'une nouvelle option pour la prise en charge de la colorisation du code préformaté dans le Markdown. Langages actuellement pris en charge : Python, Java, PHP, C, C++, Objective-C, Ruby, SQL, TOML, YAML, et les langages par défaut : HTML, CSS, JavaScript, JSON, Markdown et XML. Cette option peut être sauvegardée dans les paramètres et partagée avec un fichier.
+
+{% hint style="warning" %}
+L'option n'est visible que sur les fichiers Markdown. Ouvrez un gist Markdown ou nommer un nouveau fichier test.md, puis allez dans les paramètres JdBEdit pour voir l'option.
+
+**Attention:** cette colorisation est un paramètre de l'éditeur, par conséquent, elle ne se sauvegarde pas avec le fichier. C'est uniquement pour l'aperçu dans l'éditeur.
+{% endhint %}
+
+* Ajout d'un bouton à la barre de navigation pour accèder plus facilement aux commentaires du fichier, s'il y en a.
+
+### Amélioration
+
+* Ajout d'une petite marge supplémentaire au containeur d'aperçu du markdown.
+
+### Fixations de bugs
+
+* Correction d'un bogue entraînant la suppression de toutes les données \(à l'exceptions des paramètres\) au lieu de toutes les notes sur Notes.
+
 ## 26-08-2021 - v2.14.0
 
 **Sous-versions de fixes mineurs** : v2.14.1, v2.14.2, v2.14.3
