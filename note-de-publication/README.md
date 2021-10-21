@@ -6,7 +6,7 @@ description: Historique des modifications, nouveautés et améliorations.
 
 ![Notes de mises à jour JdBEdit](../.gitbook/assets/update\_uxn2.png)
 
-## 21-10-2021 - v2.16.0
+## 20-10-2021 - v2.16.0
 
 ### Nouveautés
 
@@ -15,7 +15,7 @@ description: Historique des modifications, nouveautés et améliorations.
 
 ### Améliorations
 
-* Avant, lorsque vous modifiez une note créée dans Notes, la note existante était supprimée avant que vous validiez votre modification, ce qui causait la perte de la note au cas où vous annuler la modification. Maintenant, vous pouvez modifier vos notes sans rien craindre.
+* Avant, lorsque vous modifiez une note créée dans Notes, la note existante était supprimée avant que vous validiez votre modification, ce qui causait la perte de la note au cas où vous annulez la modification. Maintenant, vous pouvez modifier vos notes sans rien craindre.
 * Et quelques autres petites améliorations...
 
 ## 07-10-2021 - v2.15.0
