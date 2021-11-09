@@ -11,7 +11,7 @@
 * [Les panneaux](les-panneaux.md)
 * [Les raccourcis claviers](https://code.wetrafa.xyz/?modal=shortcuts)
 * [Les extraits de code](les-extraits-de-code.md)
-* [Notes de publication](note-de-publication/README.md)
+* [🎉 Notes de publication](note-de-publication/README.md)
   * [Version initiale](note-de-publication/version-initiale.md)
 
 ## Paramètres
@@ -33,7 +33,7 @@
 * [A propos](https://code.wetrafa.xyz/a-propos)
 * [Licence](autres/licence.md)
 
----
+***
 
 * [FAQ](faq.md)
 
@@ -41,5 +41,4 @@
 
 * [Preview / Aperçu](https://preview.codewith.wetrafa.xyz/home)
 * [Editeur JdBEdit](https://code.wetrafa.xyz)
-* [Statut](https://status.code.wetrafa.xyz/)
-
+* [Statut](https://status.code.wetrafa.xyz)

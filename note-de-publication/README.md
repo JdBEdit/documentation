@@ -1,10 +1,9 @@
 ---
 description: Historique des modifications, nouveautés et améliorations.
+coverY: 0
 ---
 
-# Notes de publication
-
-![Notes de mises à jour JdBEdit](../.gitbook/assets/update\_uxn2.png)
+# 🎉 Notes de publication
 
 ## 20-10-2021 - v2.16.0
 
