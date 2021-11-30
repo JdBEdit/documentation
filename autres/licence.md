@@ -6,11 +6,10 @@ description: Cette licence s'applique à tous les Gists publics sur GitHub.
 
 > Ni JdBEdit, ni Wetrafa, ni moi, José ne sommes responsables de toute perte ou dommage de quelque nature que ce soit lors de votre manipulation de l'éditeur, JdBEdit ou du code fourni.
 
-* [https://gist.github.com/c0de29e623a1e34d1cda7e817d18bafe](https://gist.github.com/c0de29e623a1e34d1cda7e817d18bafe)
-* [https://code.wetrafa.xyz/preview/c0de29e623a1e34d1cda7e817d18bafe](http://code.wetrafa.xyz/preview/c0de29e623a1e34d1cda7e817d18bafe)
+[https://code.wetrafa.xyz/preview/c0de29e623a1e34d1cda7e817d18bafe](http://code.wetrafa.xyz/preview/c0de29e623a1e34d1cda7e817d18bafe)
 
 {% code title="MIT License" %}
-```text
+```
 MIT License
 
 Copyright (c) 2017 Martin Buberl
@@ -34,4 +33,3 @@ OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 ```
 {% endcode %}
-

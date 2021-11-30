@@ -22,8 +22,8 @@
 
 ## Outils
 
-* [Encodeur et décodeur d'URL](outils/encodeur-et-decodeur-durl.md)
-* [Sélecteur de couleur](outils/selecteur-de-couleur.md)
+* [🔗 Encodeur et décodeur d'URL](outils/encodeur-et-decodeur-durl.md)
+* [🎨 Sélecteur de couleur](outils/selecteur-de-couleur.md)
 * [Importeur de code](outils/importeur-de-code.md)
 * [Mise en forme](outils/mise-en-forme.md)
 * [Console](outils/console.md)
@@ -35,7 +35,7 @@
 
 ***
 
-* [FAQ](faq.md)
+* [❔ FAQ](faq.md)
 
 ## Applications
 
