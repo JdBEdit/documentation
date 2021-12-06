@@ -10,7 +10,7 @@ coverY: 0
 ### Nouveautés
 
 * Ajout d'une image Gist GitHub pour les réseaux sociaux lors de partage de lien d'un fichier.
-* Ajout dans la barre de touches un bouton permettant d'ajouter facilement une section pliable (\`details\`) dans le HTML et Markdown.
+* Ajout dans la barre de touches un bouton permettant d'ajouter facilement une section pliable (`details`) dans le HTML et le Markdown.
 
 ## 20-10-2021 - v2.16.0
 
