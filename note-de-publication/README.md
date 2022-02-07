@@ -5,7 +5,18 @@ coverY: 0
 
 # 🎉 Notes de publication
 
+## 07-02-2022 - v2.18.1
+
+_Cette version est étiquetée par erreur. Il doit s'agir de la `v2.18.0` au lieu de la `v2.18.1`._
+
+### Nouveautés
+
+* ⭐ Les notes déjà sauvegardées et celles que vous créerez peuvent désormais être marquées comme important à l'aide du bouton étoile (⭐) se trouvant sur chaque note où lorsque vous éditez un note.
+  * Il est aussi possible de ne voir que les notes marquées comme important.
+
 ## 30-11-2021 - v2.17.0
+
+**Sous versions de fixes mineurs** : v2.17.1, v2.17.2
 
 ### Nouveautés
 
@@ -48,7 +59,7 @@ L'option n'est visible que sur les fichiers Markdown. Ouvrez un gist Markdown ou
 
 ## 26-08-2021 - v2.14.0
 
-**Sous-versions de fixes mineurs** : v2.14.1, v2.14.2, v2.14.3
+**Sous** __ **versions de fixes mineurs** : v2.14.1, v2.14.2, v2.14.3
 
 ### Nouveautés <a href="#ameliorations-v-2-13-0" id="ameliorations-v-2-13-0"></a>
 
@@ -72,7 +83,7 @@ L'option n'est visible que sur les fichiers Markdown. Ouvrez un gist Markdown ou
 
 ## 02-08-2021 - v2.13.0
 
-**Sous-versions de fixes mineurs** : v2.13.1, v2.13.2, v2.13.3
+**Sous versions de fixes mineurs** : v2.13.1, v2.13.2, v2.13.3
 
 ### Nouveautés <a href="#nouveautes-v-2-13-0" id="nouveautes-v-2-13-0"></a>
 
