@@ -3,7 +3,7 @@ description: Foire aux questions fréquemment posées.
 coverY: 0
 ---
 
-# FAQ
+# ❔ FAQ
 
 ## Qu'est-ce que JdBEdit ?
 
@@ -65,7 +65,7 @@ Pour le moment, un seul fichier est pris en charge. Pour utiliser le CSS et ou l
 
 ## Je peux utiliser le markdown ?
 
-Si vous créez des fichiers _ .markdown _ou_ _ _.md_, JdBEdit créera automatiquement des fichiers HTML pour les accompagner, afin que le navigateur les rende. Pour créer un fichiers markdown, c'est simple, il suffit de nommer votre fichier ainsi : **mon fichier.md** ou **mon fichier.markdown**.&#x20;
+Si vous créez des fichiers _.markdown_ ou __ _.md_, JdBEdit créera automatiquement des fichiers HTML pour les accompagner, afin que le navigateur les rende. Pour créer un fichiers markdown, c'est simple, il suffit de nommer votre fichier ainsi : **mon fichier.md** ou **mon fichier.markdown**.&#x20;
 
 Pour en savoir plus sur comment créer un fichier, rendez-vous sur :
 

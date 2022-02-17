@@ -27,7 +27,10 @@
 * [Importeur de code](outils/importeur-de-code.md)
 * [Mise en forme](outils/mise-en-forme.md)
 * [Console](outils/console.md)
-* [▶ Preview / Aperçu](outils/preview.md)
+
+***
+
+* [▶ Preview / Aperçu](preview.md)
 
 ## Autres
 

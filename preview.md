@@ -1,5 +1,6 @@
 ---
 description: Outils de prévisualisation des Gist
+coverY: 0
 ---
 
 # ▶ Preview / Aperçu

@@ -12,10 +12,10 @@ Le panneau Paramètres JdBEdit contient les options de personnalisation de l'éd
 
 Un bouton **Sauvegarder** et **Réinitialiser** se trouvent fixés en bas du panneau.
 
-Accès : 
+Accès :&#x20;
 
-* Barre de navigation &gt; _Paramètres_
-* `Menu A` &gt; `Options` &gt; _Paramètres_
+* Barre de navigation > _Paramètres_
+* `Menu A` > `Options` > _Paramètres_
 * `Ctrl` + `Alt` + `S`
 
 ## Ouvrir un fichier
@@ -29,22 +29,22 @@ Le panneau permettant d'ouvrir un fichier donne la possibilité :
 
 Et contient aussi un tableau de cette historique.
 
-Accès : 
+Accès :&#x20;
 
-* `Menu A` &gt; `Fichier` &gt; _Ouvrir_
+* `Menu A` > `Fichier` > _Ouvrir_
 * `Ctrl` + `Alt` + `O`
 
 ## Sélecteur de couleur
 
 Choisissez des couleurs depuis l'éditeur.
 
-Le panneau Sélecteur de couleur vous permet sélectionner une couleur sur un cadre d'arrière-plan unicolore.  Comment choisir une couleur si l'arrière-plan est unicolore ? C'est simple, survoler le cadre en question \(_grand cadre bleu dans l'illustration ci-dessus, cp 1_\) avec le curseur de votre souris et vous trouverez votre couleur par rapport aux coordonnées de votre curseur.
+Le panneau Sélecteur de couleur vous permet sélectionner une couleur sur un cadre d'arrière-plan unicolore.  Comment choisir une couleur si l'arrière-plan est unicolore ? C'est simple, survoler le cadre en question (_grand cadre bleu dans l'illustration ci-dessus, cp 1_) avec le curseur de votre souris et vous trouverez votre couleur par rapport aux coordonnées de votre curseur.
 
-Une fois la couleur trouvée, cliquez pour confirmer la sélection et JdBEdit vous fournira un dégradé de 10 nuances de la couleur choisie \(_illustration ci-après, cp 2_\) - et un thème CSS que vous pouvez copier pour ajouter à votre page.
+Une fois la couleur trouvée, cliquez pour confirmer la sélection et JdBEdit vous fournira un dégradé de 10 nuances de la couleur choisie (_illustration ci-après, cp 2_) - et un thème CSS que vous pouvez copier pour ajouter à votre page.
 
-![\(cp 2\) - D&#xE9;grad&#xE9; de \#5582aa](.gitbook/assets/gradient-cp.png)
+![(cp 2) - Dégradé de #5582aa](.gitbook/assets/gradient-cp.png)
 
-{% code title="Thème CSS basé sur \#5582aa" %}
+{% code title="Thème CSS basé sur #5582aa" %}
 ```css
 .theme-l5 {color:#000 !important; background-color:#f5f8fa !important}
 .theme-l4 {color:#000 !important; background-color:#dde6ee !important}
@@ -65,7 +65,7 @@ Une fois la couleur trouvée, cliquez pour confirmer la sélection et JdBEdit vo
 ```
 {% endcode %}
 
-Accès : `Menu A` &gt; `Options` &gt; `Outils` &gt; _Sélecteur de couleur_
+Accès : `Menu A` > `Options` > `Outils` > _Sélecteur de couleur_
 
 ## Les raccourcis clavier
 
@@ -79,22 +79,29 @@ Ce panneau donne simplement la possibilité de sauvegarder votre fichier en lign
 
 Ce panneau contient quelques extraits de code HTML, CSS et JavaScript faites à l'avance pour vous au cas où vous ne vous souviendrez plus de comment inclure une vidéo dans votre page ou encore si vous souhaitez ajouter un formulaire de contact sans devoir tout écrire par exemple.
 
-Pour insérer un extrait de code JdBEdit à votre code, mettez le curseur à la position où voulez insérer l'extrait &gt; ouvrez le panneau Extraits de code &gt; choisissez le code à insérer &gt; cliquez sur le nom de l'extrait pour voir le code et le bouton d'insertion &gt; cliquez sur le bouton **Insérer** pour insérer le code à la position du curseur.
+Pour insérer un extrait de code JdBEdit à votre code, mettez le curseur à la position où voulez insérer l'extrait > ouvrez le panneau Extraits de code > choisissez le code à insérer > cliquez sur le nom de l'extrait pour voir le code et le bouton d'insertion > cliquez sur le bouton **Insérer** pour insérer le code à la position du curseur.
 
-Accès : `Menu A` &gt; `Édition` &gt; _Ajouter un extrait de code_
+Accès : `Menu A` > `Édition` > _Ajouter un extrait de code_
 
 ## Partager
 
 Ce panneau contient des options de partage de votre fichier. Vous pouvez y obtenir :
 
-* un lien du mode édition du fichier \(on peu voir le code - personnalisable\),
-* un lien du mode production \(on a juste le résultat du code - personnalisable\),
+* un lien du mode édition du fichier (on peu voir le code - personnalisable),
+* un lien du mode production (on a juste le résultat du code - personnalisable),
 * des boutons pour les réseaux sociaux et email,
 * un lien raccourci,
 
 ## Et autres...
 
-{% page-ref page="outils/encodeur-et-decodeur-durl.md" %}
+{% content-ref url="outils/encodeur-et-decodeur-durl.md" %}
+[encodeur-et-decodeur-durl.md](outils/encodeur-et-decodeur-durl.md)
+{% endcontent-ref %}
 
-{% page-ref page="outils/console.md" %}
+{% content-ref url="broken-reference" %}
+[Broken link](broken-reference)
+{% endcontent-ref %}
 
+{% content-ref url="outils/console.md" %}
+[console.md](outils/console.md)
+{% endcontent-ref %}

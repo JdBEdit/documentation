@@ -5,6 +5,10 @@ coverY: 0
 
 # 🎉 Notes de publication
 
+{% hint style="info" %}
+Ces notes de publication ne concernent que l'application JdBEdit.
+{% endhint %}
+
 ## 07-02-2022 - v2.18.1
 
 _Cette version est étiquetée par erreur. Il doit s'agir de la `v2.18.0` au lieu de la `v2.18.1`._
