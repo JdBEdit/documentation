@@ -17,8 +17,8 @@ Les  domaines et les formats d'URLs pris en charge par JdBEdit Preview pour extr
 
 **Domaines**
 
-* gist.github.com,
-* gist.githubusercontent.com,
+* gist.github.com
+* gist.githubusercontent.com
 * ~~rawgit.com~~ et ~~cdn.rawgit.com~~ (voir [RawGit](https://rawgit.com)),
 * code.wetrafa.xyz
 * codewith.wetrafa.xyz
