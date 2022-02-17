@@ -31,7 +31,7 @@ Dans la liste d'exemples suivante, l'ID du fichier est mis en gras. L'utilisatio
 
 _\*GitHub :_
 
-* [gist.github.com/\[USER](https://gist.github.com/jdbruxelles/ce73715581e65af292e6cd8be44e3c7e)[\_NAME](https://gist.githubusercontent.com/jdbruxelles/ce73715581e65af292e6cd8be44e3c7e)[\]/\[GIST\_ID\]](https://gist.github.com/jdbruxelles/ce73715581e65af292e6cd8be44e3c7e) (source Gist)
+* [gist.github.com/\[USER\_NAME\]/\[GIST\_ID\]](https://gist.github.com/jdbruxelles/ce73715581e65af292e6cd8be44e3c7e) (source Gist)
 * [gist.githubusercontent.com/\[USER\_NAME\]/\[GIST\_ID\]](https://gist.githubusercontent.com/jdbruxelles/ce73715581e65af292e6cd8be44e3c7e)  (source Gist)
 
 _code.wetrafa :_
