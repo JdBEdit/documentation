@@ -75,7 +75,7 @@ Pour en savoir plus sur comment créer un fichier, rendez-vous sur :
 
 Vous pouvez ajouter un style initial au rendu de votre markdown en cachant dans les Paramètre JdBEdit la case **Ajouter du style au markdown** comme illustré ci-après :
 
-![](.gitbook/assets/localhost\_8080\_\_\_dev.index.html\_modal-setting-1.png)
+![](<.gitbook/assets/localhost\_8080\_\_\_dev.index.html\_modal=setting (1).png>)
 
 ## Comment supprimer les cookies ?
 

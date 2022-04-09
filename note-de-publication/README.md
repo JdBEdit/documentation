@@ -94,7 +94,7 @@ L'option n'est visible que sur les fichiers Markdown. Ouvrez un gist Markdown ou
 * ⭐ Il est désormais possible de créer les dot files : les fichiers de configurations dont le nom commence par un point. Ex. : `.gitignore`,  `.env`.
 * ⭐ Il est possible de redimensionner le panneau d'aperçu en cliquant sur le bouton contenant les dimensions du cadre d'aperçu situé juste au-dessus de celui-ci. Ensuite vous pouvez choisir entre Mobile, Tablette, Ordinateur et Défaut.
 
-![](../.gitbook/assets/image.png)
+![](<../.gitbook/assets/image (2).png>)
 
 * Vous pouvez maintenant partager votre thème de l'éditeur en cochant "Inclure le thème" dans le [panneau de partage](https://code.wetrafa.xyz/?modal=share).
 * Dans ce même panneau de partage, vous pouvez ouvrir des liens en cliquant simplement sur l'icône ouvrir.
@@ -104,7 +104,7 @@ L'option n'est visible que sur les fichiers Markdown. Ouvrez un gist Markdown ou
 * ⭐ Lorsque vous ouvrez un fichier qui a été renommer, mais que ce fichier avait été ouvert avant qu'il soit renommé (c'est-à-dire qu'il se trouve déjà dans l'historique des fichiers ouverts), JdBEdit met à jour le nom du fichier dans l'historique également.
 * ⭐⭐ Une des plus grosses nouveautés : l'affichage des commentaires sur les fichiers Gist GitHub. Accédez aux [`Paramètres`](https://code.wetrafa.xyz/?modal=setting) puis `Voir plus des détails`. Tout en bas vous pourrez charger les commentaires au fur et à mesure s'il y en a. Ils ne sont pas chargés par défaut pour économiser les ressources.
 
-![](<../.gitbook/assets/image (3).png>)
+![](<../.gitbook/assets/image (7).png>)
 
 * ⭐ Vous pouvez désormais avoir un aperçu en couleur de vos blocs de code dans des fichiers Markdown et les blocs de codes dans les commentaires du fichier. Cette mise en couleur ne s'enregistre pas avec les fichiers et peut s'activer dans les Paramètres.
 * Ajout de la police Fira Code.
@@ -126,7 +126,7 @@ L'option n'est visible que sur les fichiers Markdown. Ouvrez un gist Markdown ou
 * En important votre historique des fichiers ouverts/dupliqués/supprimés, les caractères avec accent sont dérsomais bien encodés. Plus des carrés ou des points d'interrogation au lieu d'un "é" dans le fichier JSON.
 * Et toujours dans l'historique, vous pouvez importer votre sauvegarde tout en profitant d'une fusion sans fail de votre sauvegarde et de l'historique existant.
 
-![](<../.gitbook/assets/image (4).png>)
+![](<../.gitbook/assets/image (6).png>)
 
 * Maintenant lorsque vous quittez JdBEdit sans avoir sauvegardé vos modifications et sans fermer l'onglet ou la fenêtre, le message d'alerte qui s'affichait tout de suite à la place du titre de l'onglet ne s'affiche plus que 3 secondes après votre départ.
 * Envoyer un [formulaire de contact](https://code.wetrafa.xyz/contact) n'ouvre plus de nouvel onglet, et confirmer le code reCAPTCHA n'envoie plus systématiquement le formulaire.
