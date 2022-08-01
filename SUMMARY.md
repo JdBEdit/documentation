@@ -45,4 +45,4 @@
 
 * [Preview / Aperçu](https://preview.codewith.wetrafa.xyz/home)
 * [Editeur JdBEdit](https://code.wetrafa.xyz)
-* [Statut](https://status.code.wetrafa.xyz)
+* [Statut](https://status.code.wetrafa.xyz/)

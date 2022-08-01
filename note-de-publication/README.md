@@ -9,6 +9,26 @@ coverY: 0
 Ces notes de publication ne concernent que l'application JdBEdit.
 {% endhint %}
 
+## 01-08-2022 - v2.19.0
+
+### Nouveautés
+
+* Ajout de l'auto-complétion pour les fichiers SQL.
+* Ajouter l'intégration `iframe` du gist (en utilisant l'extension `.pibb`).
+
+### Améliorations
+
+* Mise à jour de la section de paramètres.
+* Suppression du paramètre `hardwrap`.
+* Dans le panneau de sauvegarde de fichier, le bouton "**Enregistrer**" devient "**Mettre à jour le gist**" si vous êtes connecté.e et que vous en êtes le propriétaire.
+* Amélioration de l'accessibilité.
+* Et quelques autres petites améliorations...
+
+### Fixation de bugs <a href="#fixation-de-bugs-v-2-13-0" id="fixation-de-bugs-v-2-13-0"></a>
+
+* Correction de l'inclusion de la plage de sélection dans l'URL partageable.
+* Correction de la surbrillance des balises `pre` dans l'aperçu du code Markdown.
+
 ## 07-02-2022 - v2.18.1
 
 _Cette version est étiquetée par erreur. Il doit s'agir de la `v2.18.0` au lieu de la `v2.18.1`._
