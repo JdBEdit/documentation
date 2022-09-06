@@ -9,6 +9,22 @@ coverY: 0
 Ces notes de publication ne concernent que l'application JdBEdit.
 {% endhint %}
 
+## 06-09-2022 - v2.20.0
+
+### Nouveautés
+
+* JdBEdit peut maintenant ouvrir les liens de la structure `//code.wetrafa.xyz/preview/[id]`.
+
+### Améliorations
+
+* Quelques améliorations de performance et de style.
+* Suppression des redirections non nécessaires.
+* Maintenant le bouton "Dupliquer" sera affiché lorsque l'on se connecte pendant qu'un gist est ouvert.
+
+### Fixation de bugs <a href="#fixation-de-bugs-v-2-13-0" id="fixation-de-bugs-v-2-13-0"></a>
+
+* Correction des fautes de frappes et des erreurs laissés dans le code.
+
 ## 01-08-2022 - v2.19.0
 
 ### Nouveautés
