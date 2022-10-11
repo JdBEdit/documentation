@@ -11,6 +11,8 @@ Ces notes de publication ne concernent que l'application JdBEdit.
 
 ## 06-09-2022 - v2.20.0
 
+**Sous versions de fixes mineurs** : `v2.20.1`
+
 ### Nouveautés
 
 * JdBEdit peut maintenant ouvrir les liens de la structure `//code.wetrafa.xyz/preview/[id]`.
@@ -56,7 +58,7 @@ _Cette version est étiquetée par erreur. Il doit s'agir de la `v2.18.0` au lie
 
 ## 30-11-2021 - v2.17.0
 
-**Sous versions de fixes mineurs** : v2.17.1, v2.17.2
+**Sous versions de fixes mineurs** : `v2.17.1`, `v2.17.2`
 
 ### Nouveautés
 
