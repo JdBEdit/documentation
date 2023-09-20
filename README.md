@@ -3,6 +3,17 @@ description: >-
   Bonjour et bienvenue sur le site de documentation de l'éditeur JdBEdit. Ici
   vous vous trouverez toutes les informations sur l'utilisation, les
   améliorations et autres sur JdBEdit.
+layout:
+  title:
+    visible: true
+  description:
+    visible: true
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
 ---
 
 # Bienvenue
@@ -17,11 +28,16 @@ Cette documentation est non-exhaustive.
 
 Pour en savoir plus sur JdBEdit, veuillez continuer votre visite guidée.
 
-{% page-ref page="quest-ce-quest-jdbedit.md" %}
+{% content-ref url="quest-ce-quest-jdbedit.md" %}
+[quest-ce-quest-jdbedit.md](quest-ce-quest-jdbedit.md)
+{% endcontent-ref %}
 
 Vous pouvez également consultez la foire aux questions sur JdBEdit :
 
-{% page-ref page="faq.md" %}
+{% content-ref url="faq.md" %}
+[faq.md](faq.md)
+{% endcontent-ref %}
 
-{% page-ref page="note-de-publication/" %}
-
+{% content-ref url="note-de-publication/" %}
+[note-de-publication](note-de-publication/)
+{% endcontent-ref %}

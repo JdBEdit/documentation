@@ -12,7 +12,7 @@ coverY: 0
 JdBEdit est un IDE en ligne, un éditeur de code pour le HTML, JavaScript, CSS, Markdown, JSON, YAML, TOML et le texte brut. Il est conçu pour aider les gens à apprendre, créer et partager le Web avec le Web. Vous avez votre code sur le côté gauche de l'écran et un aperçu de votre code sur le côté droit. Lorsque vous modifiez votre code, vous devez l'exécuter pour appliquer les modifications apportées dans l'aperçu. De plus, JdBEdit regorge d’outils d’apprentissage pour vous aider à évoluer sans niveau de compétences.
 
 {% hint style="info" %}
-[José dBruxelles](https://w.we-rl.xyz/br-cd) est le créateur et le mainteneur de JdBEdit.
+[José dBruxelles](https://jose.bruxelles.dev) est le créateur et le mainteneur de JdBEdit.
 {% endhint %}
 
 ## Aperçu (Capture d'écran)
@@ -63,7 +63,7 @@ JdBEdit est un IDE en ligne, un éditeur de code pour le HTML, JavaScript, CSS, 
 29. Exporter un fichier sur CodePen,
 30. Importer un pen de CodePen,
 31. Possibilité de glisser et déposer un fichier texte: Éditez les fichiers d'un dossier local en les faisant glisser depuis le dossier source et en les déposant dans l'éditeur,
-32. Prise en charge d'[Emmet](https://docs.emmet.io),
+32. Prise en charge d'[Emmet](https://docs.emmet.io/),
 33. Signaler un dysfonctionnement,
 34. Enregistrer des notes en local,
 35. Créer un brouillon.
