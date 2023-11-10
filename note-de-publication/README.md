@@ -11,21 +11,25 @@ Ces notes de publication ne concernent que l'application JdBEdit.
 
 ## 06-09-2022 - v2.20.0
 
-**Sous versions de fixes mineurs** : `v2.20.1`
+**Sous versions de fixes mineurs** : `v2.20.1,`  `v2.20.2`, `v2.20.3`
 
 ### Nouveautés
 
+* Il est désormais possible d'éditer du C# et du Scala dans l'éditeur (sans possibilité d'exécuter).
+* On peut désormais savoir de qui le fichier a été dupliqué dans détails du fichier.
 * JdBEdit peut maintenant ouvrir les liens de la structure `//code.wetrafa.xyz/preview/[id]`.
 
 ### Améliorations
 
+* En mode lecture seule, les actions couper et coller ne sont pas admises. Un message d'erreur a été ajouté pour le rappeler.&#x20;
 * Quelques améliorations de performance et de style.
 * Suppression des redirections non nécessaires.
 * Maintenant le bouton "Dupliquer" sera affiché lorsque l'on se connecte pendant qu'un gist est ouvert.
 
 ### Fixation de bugs <a href="#fixation-de-bugs-v-2-13-0" id="fixation-de-bugs-v-2-13-0"></a>
 
-* Correction des fautes de frappes et des erreurs laissés dans le code.
+* Correction des fautes de frappes et des erreurs laissées dans le code.
+* Correction de l'URL de la documentation sur comment activer le JavaScript.
 
 ## 01-08-2022 - v2.19.0
 
@@ -101,7 +105,7 @@ L'option n'est visible que sur les fichiers Markdown. Ouvrez un gist Markdown ou
 
 ## 26-08-2021 - v2.14.0
 
-**Sous** __ **versions de fixes mineurs** : v2.14.1, v2.14.2, v2.14.3
+**Sous** **versions de fixes mineurs** : v2.14.1, v2.14.2, v2.14.3
 
 ### Nouveautés <a href="#ameliorations-v-2-13-0" id="ameliorations-v-2-13-0"></a>
 
