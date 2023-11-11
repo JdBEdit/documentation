@@ -11,12 +11,13 @@ Ces notes de publication ne concernent que l'application JdBEdit.
 
 ## 06-09-2022 - v2.20.0
 
-**Sous versions de fixes mineurs** : `v2.20.1,`  `v2.20.2`, `v2.20.3`
+**Sous versions de fixes mineurs** : `v2.20.1,`  `v2.20.2`, `v2.20.3`, `v2.20.4`
 
 ### Nouveautés
 
 * Il est désormais possible d'éditer du C# et du Scala dans l'éditeur (sans possibilité d'exécuter).
 * On peut désormais savoir de qui le fichier a été dupliqué dans détails du fichier.
+* Les liens raccourcis sont de retour dans l'onglet Partage. Le domain **shr.wetrafa.xyz** est remplacé par **shr.bruxelles.dev**.
 * JdBEdit peut maintenant ouvrir les liens de la structure `//code.wetrafa.xyz/preview/[id]`.
 
 ### Améliorations
